@@ -1,0 +1,164 @@
+[{
+  "title": "小胖貓動物診所",
+  "totalScore": 4.8,
+  "categoryName": "Veterinarian",
+  "address": "88051, Taiwan, Penghu County, Magong City, 196號             88051澎湖縣馬公市196號",
+  "locatedIn": null,
+  "plusCode": "HJ93+H9 Magong City, Penghu County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 6 922 1362",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJySILPOhabDQR7AdHFELxAUs",
+  "url": "https://www.google.com/maps/place/%E5%B0%8F%E8%83%96%E8%B2%93%E5%8B%95%E7%89%A9%E8%A8%BA%E6%89%80/@23.5689393,119.6012113,17z/data=!3m1!4b1!4m5!3m4!1s0x346c5ae83c0b22c9:0x4b01f142144707ec!8m2!3d23.5689393!4d119.6034",
+  "location": {
+    "lat": 23.5689393,
+    "lng": 119.6034
+  },
+  "searchString": "澎湖縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 12PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 12PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 12PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 12PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 12PM"
+    }
+  ],
+  "reviewsCount": 42
+},
+{
+  "title": "博愛動物醫院",
+  "totalScore": "",
+  "categoryName": "",
+  "address": "885, Taiwan, 澎湖縣湖西鄉青螺村青螺13之1號",
+  "locatedIn": null,
+  "plusCode": "HJXX+QF Huxi Township, Penghu County, Taiwan",
+  "website": null,
+  "phone": "+886 6 992 1268",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJWaAFN4hEbDQRwNSq7E2yjuQ",
+  "url": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.599448,119.6464933,17z/data=!3m1!4b1!4m5!3m4!1s0x346c44883705a059:0xe48eb24decaad4c0!8m2!3d23.599448!4d119.648682",
+  "location": {
+    "lat": 23.599448,
+    "lng": 119.648682
+  },
+  "searchString": "澎湖縣的寵物醫院"
+},
+{
+  "title": "愛犬動物醫院",
+  "totalScore": 2,
+  "categoryName": "",
+  "address": "No. 293, Zhonghua Road, Magong City, Penghu County, Taiwan 880             880澎湖縣馬公市中華路293號",
+  "locatedIn": null,
+  "plusCode": "HHCH+V2 Magong City, Penghu County, Taiwan",
+  "website": null,
+  "phone": "+886 6 926 7456",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJu0DKYehabDQRC5MsvW0QVe8",
+  "url": "https://www.google.com/maps/place/%E6%84%9B%E7%8A%AC%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.5721383,119.575351,17z/data=!3m1!4b1!4m5!3m4!1s0x346c5ae861ca40bb:0xef55106dbd2c930b!8m2!3d23.5721383!4d119.5775397",
+  "location": {
+    "lat": 23.5721383,
+    "lng": 119.5775397
+  },
+  "searchString": "澎湖縣的寵物醫院",
+  "reviewsCount": 10
+},
+{
+  "title": "佑青動物醫院",
+  "totalScore": 3.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 308, Zhonghua Road, Magong City, Penghu County, Taiwan 880             880澎湖縣馬公市中華路308號",
+  "locatedIn": null,
+  "plusCode": "HHCJ+92 Magong City, Penghu County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 6 926 4442",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJRfLslOhabDQRknKXFU51POo",
+  "url": "https://www.google.com/maps/place/%E4%BD%91%E9%9D%92%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.570988,119.5778553,17z/data=!3m1!4b1!4m5!3m4!1s0x346c5ae894ecf245:0xea3c754e15977292!8m2!3d23.570988!4d119.580044",
+  "location": {
+    "lat": 23.570988,
+    "lng": 119.580044
+  },
+  "searchString": "澎湖縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 5PM, Holiday hours"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 5:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 9PM"
+    }
+  ],
+  "reviewsCount": 43
+},
+{
+  "title": "米克斯動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "884, Taiwan, Penghu County, Baisha Township, 講美村138-1號             884澎湖縣白沙鄉講美村138-1號",
+  "locatedIn": null,
+  "plusCode": "JHJX+H3 Baisha Township, Penghu County, Taiwan",
+  "website": null,
+  "phone": "+886 6 993 2932",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJt6wQ2q1cbDQR4Q1YGVGy4qM",
+  "url": "https://www.google.com/maps/place/%E7%B1%B3%E5%85%8B%E6%96%AF%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.6314533,119.5955244,17z/data=!3m1!4b1!4m5!3m4!1s0x346c5cadda10acb7:0xa3e2b25119580de1!8m2!3d23.6314533!4d119.5977131",
+  "location": {
+    "lat": 23.6314533,
+    "lng": 119.5977131
+  },
+  "searchString": "澎湖縣的寵物醫院",
+  "reviewsCount": 49
+}]

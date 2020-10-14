@@ -1,0 +1,4129 @@
+[{
+  "title": "平愛動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 371號, Xingye West Road, West District, Chiayi City, Taiwan 600             600嘉義市西區興業西路371號",
+  "locatedIn": null,
+  "plusCode": "FC9P+2P West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 286 9535",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJOZNKPSCUbjQRM1TRNG_RIVU",
+  "url": "https://www.google.com/maps/place/%E5%B9%B3%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4675549,120.434639,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94203d4a9339:0x5521d16f34d15433!8m2!3d23.4675549!4d120.4368277",
+  "location": {
+    "lat": 23.4675549,
+    "lng": 120.4368277
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 34
+},
+{
+  "title": "珍愛動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 1158號, Humei 1st Road, East District, Chiayi City, Taiwan 600             600嘉義市東區湖美一路1158號",
+  "locatedIn": null,
+  "plusCode": "FC6W+CW East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 225 9636",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 12,
+  "placeId": "ChIJUfvPWD6UbjQRQ0g3X8D6Wc4",
+  "url": "https://www.google.com/maps/place/%E7%8F%8D%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4610399,120.4451615,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943e58cffb51:0xce59fac05f374843!8m2!3d23.4610399!4d120.4473502",
+  "location": {
+    "lat": 23.4610399,
+    "lng": 120.4473502
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 12PM, 2 to 6PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 12PM, 2 to 6PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 12PM, 2 to 6PM, 7 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 12PM, 2 to 6PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 12PM, 2 to 6PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 12PM, 2 to 6PM, 7 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 147
+},
+{
+  "title": "桂林動物藥品",
+  "totalScore": 4,
+  "categoryName": "Pharmacy",
+  "address": "No. 101號, Wufeng North Road, East District, Chiayi City, Taiwan 60085             60085嘉義市東區吳鳳北路101號",
+  "locatedIn": null,
+  "plusCode": "FFG3+GC East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 222 6166",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 96,
+  "placeId": "ChIJb7RRv-uVbjQRHIB3LT2lrYA",
+  "url": "https://www.google.com/maps/place/%E6%A1%82%E6%9E%97%E5%8B%95%E7%89%A9%E8%97%A5%E5%93%81/@23.4763286,120.4513947,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95ebbf51b46f:0x80ada53d2d77801c!8m2!3d23.4763286!4d120.4535834",
+  "location": {
+    "lat": 23.4763286,
+    "lng": 120.4535834
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 1
+},
+{
+  "title": "三三動物醫院",
+  "totalScore": 5,
+  "categoryName": "Animal hospital",
+  "address": "No. 72號, Zhongshan Road, Baihe District, Tainan City, Taiwan 732             732台南市白河區中山路72號",
+  "locatedIn": null,
+  "plusCode": "8CX8+W6 Baihe District, Tainan City, Taiwan",
+  "website": null,
+  "phone": "+886 982 900 518",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 81,
+  "placeId": "ChIJAcz3YiePbjQRuUDjsjbhxek",
+  "url": "https://www.google.com/maps/place/%E4%B8%89%E4%B8%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.3497839,120.4133563,17z/data=!3m1!4b1!4m5!3m4!1s0x346e8f2762f7cc01:0xe9c5e136b2e340b9!8m2!3d23.3497839!4d120.415545",
+  "location": {
+    "lat": 23.3497839,
+    "lng": 120.415545
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 2
+},
+{
+  "title": "Yangming Hospital",
+  "totalScore": 3.1,
+  "categoryName": "Hospital",
+  "address": "No. 252, Wufeng North Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳北路252號",
+  "locatedIn": null,
+  "plusCode": "FFJ3+5C East District, Chiayi City, Taiwan",
+  "website": "ymhospital.com.tw",
+  "phone": "+886 5 225 2000",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 86,
+  "placeId": "ChIJR0KECTSUbjQRs-5DUVXsbaQ",
+  "url": "https://www.google.com/maps/place/Yangming+Hospital/@23.4804759,120.4513242,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943409844247:0xa46dec555143eeb3!8m2!3d23.4804759!4d120.4535129",
+  "location": {
+    "lat": 23.4804759,
+    "lng": 120.4535129
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8AM to 12PM, 2 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8AM to 12PM, 2 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8AM to 12PM, 2 to 6PM, 7 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8AM to 12PM, 2 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "8AM to 12PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8AM to 12PM, 2 to 6PM, 7 to 9PM"
+    }
+  ],
+  "reviewsCount": 182
+},
+{
+  "title": "高正川牙醫診所",
+  "totalScore": 3.3,
+  "categoryName": "Hospital",
+  "address": "No. 95號, Minzu Road, East District, Chiayi City, Taiwan 600             600嘉義市東區民族路95號",
+  "locatedIn": null,
+  "plusCode": "FFG5+PM East District, Chiayi City, Taiwan",
+  "website": "dentist-kao.com.tw",
+  "phone": "+886 5 275 0055",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 87,
+  "placeId": "ChIJE8iA3kmUbjQRJ03FViTNtLs",
+  "url": "https://www.google.com/maps/place/%E9%AB%98%E6%AD%A3%E5%B7%9D%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/@23.4767677,120.4569686,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9449de80c813:0xbbb4cd2456c54d27!8m2!3d23.4767677!4d120.4591573",
+  "location": {
+    "lat": 23.4767677,
+    "lng": 120.4591573
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2:30 to 6:30PM, 7 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2:30 to 6:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2:30 to 6PM, 7 to 9PM"
+    }
+  ],
+  "reviewsCount": 32
+},
+{
+  "title": "全生動物醫院",
+  "totalScore": 4.1,
+  "categoryName": "Pet groomer",
+  "address": "613, Taiwan, Chiayi County, Puzi City, 38-27號             613嘉義縣朴子市38-27號",
+  "locatedIn": null,
+  "plusCode": "F67M+CQ Puzi City, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 379 2393",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 85,
+  "placeId": "ChIJq6qq6mmcbjQR1c6glCejc8c",
+  "url": "https://www.google.com/maps/place/%E5%85%A8%E7%94%9F%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4635835,120.2322795,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9c69eaaaaaab:0xc773a32794a0ced5!8m2!3d23.4635835!4d120.2344682",
+  "location": {
+    "lat": 23.4635835,
+    "lng": 120.2344682
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 7:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 7:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 7:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 7:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 7:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9:30AM to 7:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "Closed"
+    }
+  ],
+  "reviewsCount": 13
+},
+{
+  "title": "惠祥動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Store",
+  "address": "730, Taiwan, Tainan City, Xinying District, 新進路一段314-1號             730台南市新營區新進路一段314-1號",
+  "locatedIn": null,
+  "plusCode": "8828+J5 Xinying District, Tainan City, Taiwan",
+  "website": null,
+  "phone": "+886 6 632 1076",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 93,
+  "placeId": "ChIJ8TTlOd-FbjQRluKTTEWGFFc",
+  "url": "https://www.google.com/maps/place/%E6%83%A0%E7%A5%A5%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.3015015,120.3132004,17z/data=!3m1!4b1!4m5!3m4!1s0x346e85df39e534f1:0x571486454c93e296!8m2!3d23.3015015!4d120.3153891",
+  "location": {
+    "lat": 23.3015015,
+    "lng": 120.3153891
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 3 to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 3 to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 7PM"
+    }
+  ],
+  "reviewsCount": 63
+},
+{
+  "title": "東京動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 99號, Jinxiu St, Xinying District, Tainan City, Taiwan 730             730台南市新營區進修街99號",
+  "locatedIn": null,
+  "plusCode": "8844+M7 Xinying District, Tainan City, Taiwan",
+  "website": null,
+  "phone": "+886 6 656 5760",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 92,
+  "placeId": "ChIJNzCl0NaFbjQRDlELaxQOigU",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E4%BA%AC%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.306661,120.3034683,17z/data=!3m1!4b1!4m5!3m4!1s0x346e85d6d0a53037:0x58a0e146b0b510e!8m2!3d23.306661!4d120.305657",
+  "location": {
+    "lat": 23.306661,
+    "lng": 120.305657
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 3 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    }
+  ],
+  "reviewsCount": 38
+},
+{
+  "title": "斗六動物醫院",
+  "totalScore": 4.1,
+  "categoryName": "Animal hospital",
+  "address": "No. 82號, Section 1, Yunlin Road, Douliu City, Yunlin County, Taiwan 640             640雲林縣斗六市雲林路一段82號",
+  "locatedIn": null,
+  "plusCode": "PG5Q+GR Douliu City, Yunlin County, Taiwan",
+  "website": null,
+  "phone": "+886 5 532 5013",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 94,
+  "placeId": "ChIJ3yEeNTvIbjQRJgsQzxiwrh8",
+  "url": "https://www.google.com/maps/place/%E6%96%97%E5%85%AD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.708808,120.5373413,17z/data=!3m1!4b1!4m5!3m4!1s0x346ec83b351e21df:0x1faeb018cf100b26!8m2!3d23.708808!4d120.53953",
+  "location": {
+    "lat": 23.708808,
+    "lng": 120.53953
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 1:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 1:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 1:30 to 6PM, 7 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 1:30 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 1:30 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 1:30 to 6PM, 7 to 9PM"
+    }
+  ],
+  "reviewsCount": 75
+},
+{
+  "title": "康翔動物醫院",
+  "totalScore": 4.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 559號, Section 1, Zhangrong Road, Xinying District, Tainan City, Taiwan 730             730台南市新營區長榮路一段559號",
+  "locatedIn": null,
+  "plusCode": "8898+VR Xinying District, Tainan City, Taiwan",
+  "website": null,
+  "phone": "+886 6 635 9911",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 90,
+  "placeId": "ChIJDR_xYcCFbjQRQq9k_pgEqPQ",
+  "url": "https://www.google.com/maps/place/%E5%BA%B7%E7%BF%94%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.3197268,120.3148641,17z/data=!3m1!4b1!4m5!3m4!1s0x346e85c061f11f0d:0xf4a80498fe64af42!8m2!3d23.3197268!4d120.3170528",
+  "location": {
+    "lat": 23.3197268,
+    "lng": 120.3170528
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 3PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 32
+},
+{
+  "title": "東森寵物雲 嘉義友愛店",
+  "totalScore": 4.8,
+  "categoryName": "Pet store",
+  "address": "No. 187號, You'ai Road, West District, Chiayi City, Taiwan 600             600嘉義市西區友愛路187號",
+  "locatedIn": null,
+  "plusCode": "FCJM+JG West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 281 0999",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 83,
+  "placeId": "ChIJxV2zrRuXbjQRogrFPUJdQbo",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E6%A3%AE%E5%AF%B5%E7%89%A9%E9%9B%B2+%E5%98%89%E7%BE%A9%E5%8F%8B%E6%84%9B%E5%BA%97/@23.4815669,120.4315689,17z/data=!3m1!4b1!4m5!3m4!1s0x346e971badb35dc5:0xba415d423dc50aa2!8m2!3d23.4815669!4d120.4337576",
+  "location": {
+    "lat": 23.4815669,
+    "lng": 120.4337576
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10:30AM to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10:30AM to 9:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10:30AM to 9:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10:30AM to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10:30AM to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10:30AM to 9:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10:30AM to 9:30PM"
+    }
+  ],
+  "reviewsCount": 83
+},
+{
+  "title": "嘉義貓旅館",
+  "totalScore": 4.6,
+  "categoryName": "Pet boarding service",
+  "address": "600, Taiwan, Chiayi City, East District, Tailin Street, 322號1F             600嘉義市東區台林街322號1F",
+  "locatedIn": null,
+  "plusCode": "FFX4+XG East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 927 829 661",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 88,
+  "placeId": "ChIJP-KSJNeVbjQRia98DOXWl8I",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E8%B2%93%E6%97%85%E9%A4%A8/@23.4999428,120.4540662,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95d72492e23f:0xc297d6e50c7caf89!8m2!3d23.4999428!4d120.4562549",
+  "location": {
+    "lat": 23.4999428,
+    "lng": 120.4562549
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 5
+},
+{
+  "title": "文志動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 319號, Datong Road, Beigang Township, Yunlin County, Taiwan 651             651雲林縣北港鎮大同路319號",
+  "locatedIn": null,
+  "plusCode": "H7FX+26 Beigang Township, Yunlin County, Taiwan",
+  "website": null,
+  "phone": "+886 5 773 2000",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 89,
+  "placeId": "ChIJsSvyGoiibjQRuWR_abZcKiA",
+  "url": "https://www.google.com/maps/place/%E6%96%87%E5%BF%97%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.572609,120.2958403,17z/data=!3m1!4b1!4m5!3m4!1s0x346ea2881af22bb1:0x202a5cb6697f64b9!8m2!3d23.572609!4d120.298029",
+  "location": {
+    "lat": 23.572609,
+    "lng": 120.298029
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 41
+},
+{
+  "title": "文志動物醫院",
+  "totalScore": 4.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 344號, Wenhua Road, Douliu City, Yunlin County, Taiwan 640             640雲林縣斗六市文化路344號",
+  "locatedIn": null,
+  "plusCode": "PH63+MC Douliu City, Yunlin County, Taiwan",
+  "website": null,
+  "phone": "+886 5 532 2735",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 97,
+  "placeId": "ChIJZVlYV0jIbjQRWqICTw3oAWo",
+  "url": "https://www.google.com/maps/place/%E6%96%87%E5%BF%97%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.7116468,120.5513188,17z/data=!3m1!4b1!4m5!3m4!1s0x346ec84857585965:0x6a01e80d4f02a25a!8m2!3d23.7116468!4d120.5535075",
+  "location": {
+    "lat": 23.7116468,
+    "lng": 120.5535075
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9 to 11:30AM, 2 to 5:30PM, 7 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 233
+},
+{
+  "title": "微風水族館",
+  "totalScore": 4.5,
+  "categoryName": "Aquarium shop",
+  "address": "No. 397號, Section 2, Bo'ai Road, West District, Chiayi City, Taiwan 600             600嘉義市西區博愛路二段397號",
+  "locatedIn": null,
+  "plusCode": "FCFM+WJ West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 285 3332",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 91,
+  "placeId": "ChIJbVIucZ2WbjQRuZkpHOS1bi4",
+  "url": "https://www.google.com/maps/place/%E5%BE%AE%E9%A2%A8%E6%B0%B4%E6%97%8F%E9%A4%A8/@23.4747657,120.4318195,17z/data=!3m1!4b1!4m5!3m4!1s0x346e969d712e526d:0x2e6eb5e41c2999b9!8m2!3d23.4747657!4d120.4340082",
+  "location": {
+    "lat": 23.4747657,
+    "lng": 120.4340082
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "4 to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "1:30 to 9:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 1:30 to 9:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "1:30 to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "1:30 to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "1:30 to 9:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "1:30 to 9:30PM"
+    }
+  ],
+  "reviewsCount": 134
+},
+{
+  "title": "育生動物醫院",
+  "totalScore": 3.2,
+  "categoryName": "Hospital",
+  "address": "No. 96號, Anhe Road, Minxiong Township, Chiayi County, Taiwan 621             621嘉義縣民雄鄉安和路96號",
+  "locatedIn": null,
+  "plusCode": "HC3G+X5 Minxiong Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 206 0362",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 84,
+  "placeId": "ChIJYdRl9Oe9bjQRqNcNrTRt8bs",
+  "url": "https://www.google.com/maps/place/%E8%82%B2%E7%94%9F%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.5549707,120.4232177,17z/data=!3m1!4b1!4m5!3m4!1s0x346ebde7f465d461:0xbbf16d34ad0dd7a8!8m2!3d23.5549707!4d120.4254064",
+  "location": {
+    "lat": 23.5549707,
+    "lng": 120.4254064
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 9
+},
+{
+  "title": "飛揚動物醫院",
+  "totalScore": 3.8,
+  "categoryName": "Animal hospital",
+  "address": "No. 2-10, Zhongshan Road, Baihe District, Tainan City, Taiwan 732             732台南市白河區中山路2-10號",
+  "locatedIn": null,
+  "plusCode": "8CW7+95 Baihe District, Tainan City, Taiwan",
+  "website": null,
+  "phone": "+886 6 685 1110",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 82,
+  "placeId": "ChIJDdJVfhWObjQR66QrDqFdQn8",
+  "url": "https://www.google.com/maps/place/%E9%A3%9B%E6%8F%9A%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.3459453,120.4106973,17z/data=!3m1!4b1!4m5!3m4!1s0x346e8e157e55d20d:0x7f425da10e2ba4eb!8m2!3d23.3459453!4d120.412886",
+  "location": {
+    "lat": 23.3459453,
+    "lng": 120.412886
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 24
+},
+{
+  "title": "弘安動物醫院",
+  "totalScore": 4.2,
+  "categoryName": "Animal hospital",
+  "address": "No. 276, Xiping Road, Douliu City, Yunlin County, Taiwan 64049             64049雲林縣斗六市西平路276號",
+  "locatedIn": null,
+  "plusCode": "PG7M+9G Douliu City, Yunlin County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 533 3536",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 95,
+  "placeId": "ChIJe0Cf_SXIbjQR7HzdBaPHlcI",
+  "url": "https://www.google.com/maps/place/%E5%BC%98%E5%AE%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.713427,120.5315623,17z/data=!3m1!4b1!4m5!3m4!1s0x346ec825fd9f407b:0xc295c7a305dd7cec!8m2!3d23.713427!4d120.533751",
+  "location": {
+    "lat": 23.713427,
+    "lng": 120.533751
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 115
+},
+{
+  "title": "嘉義家畜醫院",
+  "totalScore": "",
+  "categoryName": "",
+  "address": "No. 537, Zhongxiao Road, East District, Chiayi City, Taiwan 600             600嘉義市東區忠孝路537號",
+  "locatedIn": null,
+  "plusCode": "FFX2+C6 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 278 2255",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 61,
+  "placeId": "ChIJdUL-q8WVbjQRRfVP8tULozI",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4985281,120.4483258,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95c5abfe4275:0x32a30bd5f24ff545!8m2!3d23.4985281!4d120.4505145",
+  "location": {
+    "lat": 23.4985281,
+    "lng": 120.4505145
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "狗窩寵物美容",
+  "totalScore": 4.7,
+  "categoryName": "Pet groomer",
+  "address": "No. 80-4, Lane 166, Wufeng South Road, East District, Chiayi City, Taiwan 600             No. 80-4, 吳鳳南路166巷東區嘉義市600",
+  "locatedIn": null,
+  "plusCode": "FF73+HH East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 216 0000",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 74,
+  "placeId": "ChIJWdeGGj6UbjQRpioaBu4dJ0A",
+  "url": "https://www.google.com/maps/place/%E7%8B%97%E7%AA%A9%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9/@23.4639491,120.4517446,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943e1a86d759:0x40271dee061a2aa6!8m2!3d23.4639491!4d120.4539333",
+  "location": {
+    "lat": 23.4639491,
+    "lng": 120.4539333
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 3PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 6PM"
+    }
+  ],
+  "reviewsCount": 24
+},
+{
+  "title": "東森寵物雲 嘉義後庒店",
+  "totalScore": 4.6,
+  "categoryName": "Pet supply store",
+  "address": "No. 360號, Wufeng South Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳南路360號",
+  "locatedIn": null,
+  "plusCode": "FF35+XP East District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 230 6999",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 73,
+  "placeId": "ChIJ6YS3yGyUbjQRi9B4VScZt1g",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E6%A3%AE%E5%AF%B5%E7%89%A9%E9%9B%B2+%E5%98%89%E7%BE%A9%E5%BE%8C%E5%BA%92%E5%BA%97/@23.4549409,120.4571281,17z/data=!3m1!4b1!4m5!3m4!1s0x346e946cc8b784e9:0x58b719275578d08b!8m2!3d23.4549409!4d120.4593168",
+  "location": {
+    "lat": 23.4549409,
+    "lng": 120.4593168
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 10PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 10PM"
+    }
+  ],
+  "reviewsCount": 141
+},
+{
+  "title": "快樂尾巴寵物用品生活館",
+  "totalScore": 4.7,
+  "categoryName": "Pet supply store",
+  "address": "No. 162號, Minsheng South Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民生南路162號",
+  "locatedIn": null,
+  "plusCode": "FC9W+JM West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 225 1077",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 64,
+  "placeId": "ChIJ19tWnHSVbjQRuoavX3ZrWD8",
+  "url": "https://www.google.com/maps/place/%E5%BF%AB%E6%A8%82%E5%B0%BE%E5%B7%B4%E5%AF%B5%E7%89%A9%E7%94%A8%E5%93%81%E7%94%9F%E6%B4%BB%E9%A4%A8/@23.4690508,120.4445094,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95749c56dbd7:0x3f586b765faf86ba!8m2!3d23.4690508!4d120.4466981",
+  "location": {
+    "lat": 23.4690508,
+    "lng": 120.4466981
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 10PM"
+    }
+  ],
+  "reviewsCount": 11
+},
+{
+  "title": "汪汪動物醫院",
+  "totalScore": 2.6,
+  "categoryName": "Hospital",
+  "address": "621, Taiwan, Chiayi County, Minxiong Township, 1之20號             621嘉義縣民雄鄉1之20號",
+  "locatedIn": null,
+  "plusCode": "GCHX+PM Minxiong Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 221 4780",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 78,
+  "placeId": "ChIJHR0-7veVbjQRiDBjiFjC5mc",
+  "url": "https://www.google.com/maps/place/%E6%B1%AA%E6%B1%AA%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.5293551,120.4470459,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95f7ee3e1d1d:0x67e6c25888633088!8m2!3d23.5293551!4d120.4492346",
+  "location": {
+    "lat": 23.5293551,
+    "lng": 120.4492346
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 12PM, 2 to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 12PM, 2 to 7PM"
+    }
+  ],
+  "reviewsCount": 9
+},
+{
+  "title": "凱麗寵物美容沙龍",
+  "totalScore": 4.4,
+  "categoryName": "Pet store",
+  "address": "600, Taiwan, Chiayi City, East District, Tailin Street, 29號60048             600嘉義市東區台林街29號60048",
+  "locatedIn": null,
+  "plusCode": "FFV3+77 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 274 3666",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 69,
+  "placeId": "ChIJ2d6T0kqUbjQRAS9asyLawZA",
+  "url": "https://www.google.com/maps/place/%E5%87%B1%E9%BA%97%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9%E6%B2%99%E9%BE%8D/@23.4931704,120.450982,17z/data=!3m1!4b1!4m5!3m4!1s0x346e944ad293ded9:0x90c1da22b35a2f01!8m2!3d23.4931704!4d120.4531707",
+  "location": {
+    "lat": 23.4931704,
+    "lng": 120.4531707
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 6:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 6:30PM"
+    }
+  ],
+  "reviewsCount": 19
+},
+{
+  "title": "保生動物醫院",
+  "totalScore": 3.9,
+  "categoryName": "Animal hospital",
+  "address": "No. 138, Siwei Street, Dalin Township, Chiayi County, Taiwan 622             622嘉義縣大林鎮四維街138號",
+  "locatedIn": null,
+  "plusCode": "JF26+RW Dalin Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 265 5193",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 63,
+  "placeId": "ChIJqzc4jci-bjQRE9vxdWn4gq8",
+  "url": "https://www.google.com/maps/place/%E4%BF%9D%E7%94%9F%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.602117,120.4601182,17z/data=!3m1!4b1!4m5!3m4!1s0x346ebec88d3837ab:0xaf82f86975f1db13!8m2!3d23.602117!4d120.4623069",
+  "location": {
+    "lat": 23.602117,
+    "lng": 120.4623069
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8AM to 9PM"
+    }
+  ],
+  "reviewsCount": 67
+},
+{
+  "title": "小窩寵物店【嘉義寵物美容X寵物旅館】",
+  "totalScore": 5,
+  "categoryName": "Pet groomer",
+  "address": "No. 879號, Minzu Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民族路879號",
+  "locatedIn": null,
+  "plusCode": "FCFQ+WF West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 227 4778",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 62,
+  "placeId": "ChIJOU83KA2VbjQRngZmG8ajtE8",
+  "url": "https://www.google.com/maps/place/%E5%B0%8F%E7%AA%A9%E5%AF%B5%E7%89%A9%E5%BA%97%E3%80%90%E5%98%89%E7%BE%A9%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9X%E5%AF%B5%E7%89%A9%E6%97%85%E9%A4%A8%E3%80%91/@23.4748608,120.4364723,17z/data=!3m1!4b1!4m5!3m4!1s0x346e950d28374f39:0x4fb4a3c61b66069e!8m2!3d23.4748608!4d120.438661",
+  "location": {
+    "lat": 23.4748608,
+    "lng": 120.438661
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 7PM"
+    }
+  ],
+  "reviewsCount": 52
+},
+{
+  "title": "叮噹寵物店",
+  "totalScore": 4.3,
+  "categoryName": "Pet store",
+  "address": "No. 332, Gongming Road, East District, Chiayi City, Taiwan 600             600嘉義市東區公明路332號",
+  "locatedIn": null,
+  "plusCode": "FFH3+X4 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 229 4050",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 76,
+  "placeId": "ChIJAQAAAC-UbjQR6s-0URF1Zk0",
+  "url": "https://www.google.com/maps/place/%E5%8F%AE%E5%99%B9%E5%AF%B5%E7%89%A9%E5%BA%97/@23.4799402,120.4505638,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942f00000001:0x4d66751151b4cfea!8m2!3d23.4799402!4d120.4527525",
+  "location": {
+    "lat": 23.4799402,
+    "lng": 120.4527525
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 12
+},
+{
+  "title": "安心醫院",
+  "totalScore": 4.4,
+  "categoryName": "General hospital",
+  "address": "No. 88, Xinmin Road, West District, Chiayi City, Taiwan 600             600嘉義市西區新民路88號",
+  "locatedIn": null,
+  "plusCode": "FC3M+CF West District, Chiayi City, Taiwan",
+  "website": "tjh.com.tw",
+  "phone": "+886 5 235 3100",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 79,
+  "placeId": "ChIJM-bMjik0BhQRCo2uSdFS1MI",
+  "url": "https://www.google.com/maps/place/%E5%AE%89%E5%BF%83%E9%86%AB%E9%99%A2/@23.453525,120.4314515,17z/data=!3m1!4b1!4m5!3m4!1s0x140634298ecce633:0xc2d452d149ae8d0a!8m2!3d23.453525!4d120.4336402",
+  "location": {
+    "lat": 23.453525,
+    "lng": 120.4336402
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 12PM, 2:30 to 6PM, 7 to 9:30PM"
+    }
+  ],
+  "reviewsCount": 24
+},
+{
+  "title": "御喵犬澡堂",
+  "totalScore": 4.5,
+  "categoryName": "Pet groomer",
+  "address": "No. 66號, Minguo Road, East District, Chiayi City, Taiwan 600             600嘉義市東區民國路66號",
+  "locatedIn": null,
+  "plusCode": "FFG6+M8 East District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 911 920 727",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 80,
+  "placeId": "ChIJyVwkM2uVbjQRWwSRId8M2n0",
+  "url": "https://www.google.com/maps/place/%E5%BE%A1%E5%96%B5%E7%8A%AC%E6%BE%A1%E5%A0%82/@23.4766334,120.4585951,17z/data=!3m1!4b1!4m5!3m4!1s0x346e956b33245cc9:0x7dda0cdf2191045b!8m2!3d23.4766334!4d120.4607838",
+  "location": {
+    "lat": 23.4766334,
+    "lng": 120.4607838
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8AM to 6PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8AM to 6PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8AM to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8AM to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8AM to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8AM to 6PM"
+    }
+  ],
+  "reviewsCount": 2
+},
+{
+  "title": "喜番·Wash Fun寵物沙龍",
+  "totalScore": 4.7,
+  "categoryName": "Pet groomer",
+  "address": "No. 720, Xinmin Road, West District, Chiayi City, Taiwan 600             600嘉義市西區新民路720號",
+  "locatedIn": null,
+  "plusCode": "FC9R+G3 West District, Chiayi City, Taiwan",
+  "website": "m.facebook.com",
+  "phone": "+886 5 286 3700",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 75,
+  "placeId": "ChIJs97_SCKUbjQRaB3SyogcXKc",
+  "url": "https://www.google.com/maps/place/%E5%96%9C%E7%95%AA%C2%B7Wash+Fun%E5%AF%B5%E7%89%A9%E6%B2%99%E9%BE%8D/@23.468801,120.4379373,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942248ffdeb3:0xa75c1c88cad21d68!8m2!3d23.468801!4d120.440126",
+  "location": {
+    "lat": 23.468801,
+    "lng": 120.440126
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 7PM"
+    }
+  ],
+  "reviewsCount": 23
+},
+{
+  "title": "好狗運貓狗福利中心-嘉義店",
+  "totalScore": 4.1,
+  "categoryName": "Pet supply store",
+  "address": "No. 167號, Linsen West Road, West District, Chiayi City, Taiwan 60049             60049嘉義市西區林森西路167號",
+  "locatedIn": null,
+  "plusCode": "FCMW+FX West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 227 1659",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 70,
+  "placeId": "ChIJ1w0a8_aVbjQR2b6yBrwLum8",
+  "url": "https://www.google.com/maps/place/%E5%A5%BD%E7%8B%97%E9%81%8B%E8%B2%93%E7%8B%97%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83-%E5%98%89%E7%BE%A9%E5%BA%97/@23.4836539,120.445288,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95f6f31a0dd7:0x6fba0bbc06b2bed9!8m2!3d23.4836539!4d120.4474767",
+  "location": {
+    "lat": 23.4836539,
+    "lng": 120.4474767
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 11PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 11PM"
+    }
+  ],
+  "reviewsCount": 124
+},
+{
+  "title": "My Animal Hospital",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 235, Section 5, Hewei Road, West Central District, Tainan City, Taiwan 700             700台南市中西區和緯路五段235號",
+  "locatedIn": null,
+  "plusCode": "253J+X6 West Central District, Tainan City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 6 250 1567",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 67,
+  "placeId": "ChIJMbCTahV2bjQRc8DCG9tmJJ4",
+  "url": "https://www.google.com/maps/place/My+Animal+Hospital/@23.004985,120.1783143,17z/data=!3m1!4b1!4m5!3m4!1s0x346e76156a93b031:0x9e2466db1bc2c073!8m2!3d23.004985!4d120.180503",
+  "location": {
+    "lat": 23.004985,
+    "lng": 120.180503
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "Closed"
+    }
+  ],
+  "reviewsCount": 100
+},
+{
+  "title": "貓狗大棧-嘉義垂楊店",
+  "totalScore": 4.3,
+  "categoryName": "Pet supply store",
+  "address": "No. 193號, Chuiyang Road, East District, Chiayi City, Taiwan 600             600嘉義市東區垂楊路193號",
+  "locatedIn": null,
+  "plusCode": "FFF4+MC East District, Chiayi City, Taiwan",
+  "website": "99168.com.tw",
+  "phone": "+886 5 216 3535",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 72,
+  "placeId": "ChIJsXPtnDeUbjQRo6l_KYBbq_A",
+  "url": "https://www.google.com/maps/place/%E8%B2%93%E7%8B%97%E5%A4%A7%E6%A3%A7-%E5%98%89%E7%BE%A9%E5%9E%82%E6%A5%8A%E5%BA%97/@23.474212,120.453919,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94379ced73b1:0xf0ab5b80297fa9a3!8m2!3d23.474212!4d120.4561077",
+  "location": {
+    "lat": 23.474212,
+    "lng": 120.4561077
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10:30AM to 10:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10:30AM to 10:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10:30AM to 10:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10:30AM to 10:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10:30AM to 10:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10:30AM to 10:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10:30AM to 10:30PM"
+    }
+  ],
+  "reviewsCount": 126
+},
+{
+  "title": "三信寵物生活館",
+  "totalScore": 4.8,
+  "categoryName": "Pet store",
+  "address": "No. 249號, Guangcai Street, East District, Chiayi City, Taiwan 600             600嘉義市東區光彩街249號",
+  "locatedIn": null,
+  "plusCode": "FFH2+8Q East District, Chiayi City, Taiwan",
+  "website": "3singpet.business.site",
+  "phone": "+886 5 227 6730",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 71,
+  "placeId": "ChIJSaDbODGUbjQRwxfM_X-_yOw",
+  "url": "https://www.google.com/maps/place/%E4%B8%89%E4%BF%A1%E5%AF%B5%E7%89%A9%E7%94%9F%E6%B4%BB%E9%A4%A8/@23.4782736,120.44979,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943138dba049:0xecc8bf7ffdcc17c3!8m2!3d23.4782736!4d120.4519787",
+  "location": {
+    "lat": 23.4782736,
+    "lng": 120.4519787
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 9PM"
+    }
+  ],
+  "reviewsCount": 20
+},
+{
+  "title": "東森寵物雲 嘉義西區店",
+  "totalScore": 4.8,
+  "categoryName": "Pet supply store",
+  "address": "No. 313號, Beigang Road, West District, Chiayi City, Taiwan 600             600嘉義市西區北港路313號",
+  "locatedIn": null,
+  "plusCode": "FCJH+97 West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 233 0006",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 65,
+  "placeId": "ChIJQbrxxu6XbjQRaDnYqGEAb1g",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E6%A3%AE%E5%AF%B5%E7%89%A9%E9%9B%B2+%E5%98%89%E7%BE%A9%E8%A5%BF%E5%8D%80%E5%BA%97/@23.4809416,120.4260491,17z/data=!3m1!4b1!4m5!3m4!1s0x346e97eec6f1ba41:0x586f0061a8d83968!8m2!3d23.4809416!4d120.4282378",
+  "location": {
+    "lat": 23.4809416,
+    "lng": 120.4282378
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 10PM"
+    }
+  ],
+  "reviewsCount": 103
+},
+{
+  "title": "帕豆專業寵物美容",
+  "totalScore": 4.6,
+  "categoryName": "Pet groomer",
+  "address": "No. 155-1, Beixing Street, West District, Chiayi City, Taiwan 600             600嘉義市西區北興街155-1號",
+  "locatedIn": null,
+  "plusCode": "FCMR+JG West District, Chiayi City, Taiwan",
+  "website": "m.facebook.com",
+  "phone": "+886 5 233 9000",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 77,
+  "placeId": "ChIJg0KhCyWUbjQRcgmrdEppqE4",
+  "url": "https://www.google.com/maps/place/%E5%B8%95%E8%B1%86%E5%B0%88%E6%A5%AD%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9/@23.4840642,120.4391473,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94250ba14283:0x4ea8694a74ab0972!8m2!3d23.4840642!4d120.441336",
+  "location": {
+    "lat": 23.4840642,
+    "lng": 120.441336
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 11AM to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "11AM to 6PM"
+    }
+  ],
+  "reviewsCount": 36
+},
+{
+  "title": "東森寵物雲 嘉義北區店",
+  "totalScore": 4.9,
+  "categoryName": "Pet supply store",
+  "address": "No. 186號, Linsen West Road, West District, Chiayi City, Taiwan 600             600嘉義市西區林森西路186號",
+  "locatedIn": null,
+  "plusCode": "FCMX+P7 West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 225 1000",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 66,
+  "placeId": "ChIJ4WPIP3mVbjQRccBftHWk6QA",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E6%A3%AE%E5%AF%B5%E7%89%A9%E9%9B%B2+%E5%98%89%E7%BE%A9%E5%8C%97%E5%8D%80%E5%BA%97/@23.4842523,120.4460335,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95793fc863e1:0xe9a475b45fc071!8m2!3d23.4842523!4d120.4482222",
+  "location": {
+    "lat": 23.4842523,
+    "lng": 120.4482222
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 11PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 11PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 11PM"
+    }
+  ],
+  "reviewsCount": 80
+},
+{
+  "title": "水上動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 998, Section 2, Zhongshan Road, Shuishang Township, Chiayi County, Taiwan 608             608嘉義縣水上鄉中山路二段998號",
+  "locatedIn": null,
+  "plusCode": "CCR4+VC Shuishang Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 260 2261",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 46,
+  "placeId": "ChIJr-qFODuRbjQRj1d2J-d4-so",
+  "url": "https://www.google.com/maps/place/%E6%B0%B4%E4%B8%8A%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4421572,120.4038725,17z/data=!3m1!4b1!4m5!3m4!1s0x346e913b3885eaaf:0xcafa78e72776578f!8m2!3d23.4421572!4d120.4060612",
+  "location": {
+    "lat": 23.4421572,
+    "lng": 120.4060612
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 103
+},
+{
+  "title": "嘉保動物醫院",
+  "totalScore": 4.1,
+  "categoryName": "Hospital",
+  "address": "號, No. 250, Section 2, Beigang Road, Taibao City, Chiayi County, Taiwan 612             號, No. 250北港路二段太保市嘉義縣612",
+  "locatedIn": null,
+  "plusCode": "F9XF+5X Taibao City, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 238 5580",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 60,
+  "placeId": "ChIJtRbDHgmXbjQRFMs7eONGDp4",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E4%BF%9D%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4979907,120.3727573,17z/data=!3m1!4b1!4m5!3m4!1s0x346e97091ec316b5:0x9e0e46e3783bcb14!8m2!3d23.4979907!4d120.374946",
+  "location": {
+    "lat": 23.4979907,
+    "lng": 120.374946
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 12PM, 5 to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 12PM, 3 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 12PM, 3 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 12PM, 3 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 12PM, 3 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 12PM, 3 to 8PM"
+    }
+  ],
+  "reviewsCount": 25
+},
+{
+  "title": "汪旺來寵物生活館-嘉義仁愛店",
+  "totalScore": 4.6,
+  "categoryName": "Pet store",
+  "address": "No. 168之2號, Renai Rd, West District, Chiayi City, Taiwan 600             600嘉義市西區仁愛路168之2號",
+  "locatedIn": null,
+  "plusCode": "FC9V+46 West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 236 1286",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 53,
+  "placeId": "ChIJAQ79SCKUbjQRnTsDknUgozA",
+  "url": "https://www.google.com/maps/place/%E6%B1%AA%E6%97%BA%E4%BE%86%E5%AF%B5%E7%89%A9%E7%94%9F%E6%B4%BB%E9%A4%A8-%E5%98%89%E7%BE%A9%E4%BB%81%E6%84%9B%E5%BA%97/@23.4678143,120.4408751,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942248fd0e01:0x30a3207592033b9d!8m2!3d23.4678143!4d120.4430638",
+  "location": {
+    "lat": 23.4678143,
+    "lng": 120.4430638
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 10PM"
+    }
+  ],
+  "reviewsCount": 140
+},
+{
+  "title": "仁方動物醫院",
+  "totalScore": 3.7,
+  "categoryName": "Hospital",
+  "address": "No. 205, Zhuwei Road, West District, Chiayi City, Taiwan 600             600嘉義市西區竹圍路205號",
+  "locatedIn": null,
+  "plusCode": "FCPG+HR West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 231 1548",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 45,
+  "placeId": "ChIJ6X7vYIaWbjQR2Oeded1k0gg",
+  "url": "https://www.google.com/maps/place/%E4%BB%81%E6%96%B9%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4863954,120.4248987,17z/data=!3m1!4b1!4m5!3m4!1s0x346e968660ef7ee9:0x8d264dd799de7d8!8m2!3d23.4863954!4d120.4270874",
+  "location": {
+    "lat": 23.4863954,
+    "lng": 120.4270874
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 3
+},
+{
+  "title": "嘉義貓咪旅館－帕豆－貓咪住宿/美容",
+  "totalScore": 4.6,
+  "categoryName": "Cat hostel",
+  "address": "No. 155-1, Beixing Street, West District, Chiayi City, Taiwan 600             600嘉義市西區北興街155-1號",
+  "locatedIn": null,
+  "plusCode": "FCMR+JG West District, Chiayi City, Taiwan",
+  "website": "m.facebook.com",
+  "phone": "+886 982 098 952",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 52,
+  "placeId": "ChIJBZMrhiuUbjQRDbfXlgMxstQ",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E8%B2%93%E5%92%AA%E6%97%85%E9%A4%A8%EF%BC%8D%E5%B8%95%E8%B1%86%EF%BC%8D%E8%B2%93%E5%92%AA%E4%BD%8F%E5%AE%BF%2F%E7%BE%8E%E5%AE%B9/@23.484101,120.4391585,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942b862b9305:0xd4b2310396d7b70d!8m2!3d23.484101!4d120.4413472",
+  "location": {
+    "lat": 23.484101,
+    "lng": 120.4413472
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 11AM to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "11AM to 6PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "11AM to 6PM"
+    }
+  ],
+  "reviewsCount": 11
+},
+{
+  "title": "榮安家畜醫院",
+  "totalScore": "",
+  "categoryName": "",
+  "address": "No. 166, Minyue Street, East District, Chiayi City, Taiwan 600             600嘉義市東區民樂街166號",
+  "locatedIn": null,
+  "plusCode": "FFJ4+CJ East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 222 4993",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 59,
+  "placeId": "ChIJIztLnjWUbjQRsm8x7Up7Vqg",
+  "url": "https://www.google.com/maps/place/%E6%A6%AE%E5%AE%89%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4810293,120.4544267,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94359e4b3b23:0xa8567b4aed316fb2!8m2!3d23.4810293!4d120.4566154",
+  "location": {
+    "lat": 23.4810293,
+    "lng": 120.4566154
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "中華動物醫院",
+  "totalScore": 5,
+  "categoryName": "",
+  "address": "No. 143, Minsheng North Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民生北路143號",
+  "locatedIn": null,
+  "plusCode": "FCGW+XG West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 222 5688",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 43,
+  "placeId": "ChIJ87vxxC-UbjQRYduT5AqaKkU",
+  "url": "https://www.google.com/maps/place/%E4%B8%AD%E8%8F%AF%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4774247,120.4441693,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942fc4f1bbf3:0x452a9a0ae493db61!8m2!3d23.4774247!4d120.446358",
+  "location": {
+    "lat": 23.4774247,
+    "lng": 120.446358
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 3
+},
+{
+  "title": "朴子動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "613, Taiwan, Chiayi County, Puzi City, 大鄉里大槺榔995號             613嘉義縣朴子市大鄉里大槺榔995號",
+  "locatedIn": null,
+  "plusCode": "F784+6W Puzi City, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 379 0010",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 57,
+  "placeId": "ChIJ_____4qbbjQRd7Am0JsaXqw",
+  "url": "https://www.google.com/maps/place/%E6%9C%B4%E5%AD%90%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4656246,120.255091,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9b8affffffff:0xac5e1a9bd026b077!8m2!3d23.4656246!4d120.2572797",
+  "location": {
+    "lat": 23.4656246,
+    "lng": 120.2572797
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2:30 to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2:30 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2:30 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2:30 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2:30 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2:30 to 8PM"
+    }
+  ],
+  "reviewsCount": 122
+},
+{
+  "title": "小可愛動物醫院",
+  "totalScore": 5,
+  "categoryName": "",
+  "address": "No. 155, Jinlong Street, East District, Chiayi City, Taiwan 600             600嘉義市東區金龍街155號",
+  "locatedIn": null,
+  "plusCode": "FFH9+M6 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 276 8560",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 44,
+  "placeId": "ChIJz50Dbk2UbjQRCzAoAJBZGcU",
+  "url": "https://www.google.com/maps/place/%E5%B0%8F%E5%8F%AF%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.479193,120.4659153,17z/data=!3m1!4b1!4m5!3m4!1s0x346e944d6e039dcf:0xc51959900028300b!8m2!3d23.479193!4d120.468104",
+  "location": {
+    "lat": 23.479193,
+    "lng": 120.468104
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2:30 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2:30 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2:30 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2:30 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2:30 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2:30 to 9PM"
+    }
+  ],
+  "reviewsCount": 3
+},
+{
+  "title": "羅山動物醫院",
+  "totalScore": 5,
+  "categoryName": "",
+  "address": "No. 34, Gongming Road, East District, Chiayi City, Taiwan 600             600嘉義市東區公明路34號",
+  "locatedIn": null,
+  "plusCode": "FFJ6+9J East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 278 9988",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 48,
+  "placeId": "ChIJdQCu_UqUbjQRao1oT54ORiM",
+  "url": "https://www.google.com/maps/place/%E7%BE%85%E5%B1%B1%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4808817,120.4593752,17z/data=!3m1!4b1!4m5!3m4!1s0x346e944afdae0075:0x23460e9e4f688d6a!8m2!3d23.4808817!4d120.4615639",
+  "location": {
+    "lat": 23.4808817,
+    "lng": 120.4615639
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 2
+},
+{
+  "title": "鴻昌動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 185之13號, Section 2, Jianguo Road, Minxiong Township, Chiayi County, Taiwan 621             621嘉義縣民雄鄉建國路二段185之13號",
+  "locatedIn": null,
+  "plusCode": "GCQM+R7 Minxiong Township, Chiayi County, Taiwan",
+  "website": "business.site",
+  "phone": "+886 928 357 589",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 50,
+  "placeId": "ChIJU15ZTfy9bjQRCIaRCgDcU0s",
+  "url": "https://www.google.com/maps/place/%E9%B4%BB%E6%98%8C%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.5395837,120.4310353,17z/data=!3m1!4b1!4m5!3m4!1s0x346ebdfc4d595e53:0x4b53dc000a918608!8m2!3d23.5395837!4d120.433224",
+  "location": {
+    "lat": 23.5395837,
+    "lng": 120.433224
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 9
+},
+{
+  "title": "良友動物醫院",
+  "totalScore": 1,
+  "categoryName": "",
+  "address": "No. 339, Linsen East Road, East District, Chiayi City, Taiwan 600             600嘉義市東區林森東路339號",
+  "locatedIn": null,
+  "plusCode": null,
+  "website": null,
+  "phone": "+886 5 275 1397",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 51,
+  "placeId": "ChIJ65hTFbCVbjQRqOiYYlGwsqg",
+  "url": "https://www.google.com/maps/place/%E8%89%AF%E5%8F%8B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4909239,120.4513893,14z/data=!3m1!4b1!4m5!3m4!1s0x346e95b0155398eb:0xa8b2b0516298e8a8!8m2!3d23.4909249!4d120.4688989",
+  "location": {
+    "lat": 23.4909249,
+    "lng": 120.4688989
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "朵啡貓咪幸福屋-嘉義貓咪旅館推薦",
+  "totalScore": 5,
+  "categoryName": "Pet boarding service",
+  "address": "No. 67號, Lane 580, Section 1, Shixian Road, West District, Chiayi City, Taiwan 600             600嘉義市西區世賢路一段580巷67號",
+  "locatedIn": null,
+  "plusCode": "FCVH+VM West District, Chiayi City, Taiwan",
+  "website": "dorfeipet.pixnet.net",
+  "phone": "+886 5 237 9887",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 56,
+  "placeId": "ChIJY00WDnyWbjQRsRu9a0CRHXk",
+  "url": "https://www.google.com/maps/place/%E6%9C%B5%E5%95%A1%E8%B2%93%E5%92%AA%E5%B9%B8%E7%A6%8F%E5%B1%8B-%E5%98%89%E7%BE%A9%E8%B2%93%E5%92%AA%E6%97%85%E9%A4%A8%E6%8E%A8%E8%96%A6/@23.4946594,120.4269609,17z/data=!3m1!4b1!4m5!3m4!1s0x346e967c0e164d63:0x791d91406bbd1bb1!8m2!3d23.4946594!4d120.4291496",
+  "location": {
+    "lat": 23.4946594,
+    "lng": 120.4291496
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "12 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "12 to 4PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 12 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "12 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "12 to 9PM"
+    }
+  ],
+  "reviewsCount": 43
+},
+{
+  "title": "嘉吉家禽專科診所",
+  "totalScore": "",
+  "categoryName": "Veterinarian",
+  "address": "600, Taiwan, Chiayi City, West District, Guoxian 1st Street, 64號             600嘉義市西區國賢一街64號",
+  "locatedIn": null,
+  "plusCode": "FCMH+QH West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 233 2376",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 42,
+  "placeId": "ChIJfbZUGYSWbjQRzf-l86K-8Sw",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E5%90%89%E5%AE%B6%E7%A6%BD%E5%B0%88%E7%A7%91%E8%A8%BA%E6%89%80/@23.484419,120.4267152,17z/data=!3m1!4b1!4m5!3m4!1s0x346e96841954b67d:0x2cf1bea2f3a5ffcd!8m2!3d23.484419!4d120.4289039",
+  "location": {
+    "lat": 23.484419,
+    "lng": 120.4289039
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "紀動物醫院",
+  "totalScore": 5,
+  "categoryName": "",
+  "address": "No. 208, Minquan Road, East District, Chiayi City, Taiwan 600             600嘉義市東區民權路208號",
+  "locatedIn": null,
+  "plusCode": "FFM3+7W East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 275 0476",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 41,
+  "placeId": "ChIJzfoB6jSUbjQRovHIA605gu4",
+  "url": "https://www.google.com/maps/place/%E7%B4%80%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4831822,120.4526585,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9434ea01facd:0xee8239ad03c8f1a2!8m2!3d23.4831822!4d120.4548472",
+  "location": {
+    "lat": 23.4831822,
+    "lng": 120.4548472
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 2
+},
+{
+  "title": "博愛家畜診所",
+  "totalScore": 4.9,
+  "categoryName": "Hospital",
+  "address": "號 600 嘉義 市 西區 博愛 路 一段 389 號, No. 389, Section 1, Bo'ai Road, West District, Chiayi City, Taiwan 600             號 600 嘉義 市 西區 博愛 路 一段 389 號, No. 389博愛路一段西區嘉義市600",
+  "locatedIn": null,
+  "plusCode": "FCMV+X2 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 231 3329",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 49,
+  "placeId": "ChIJ16fQ6iyUbjQRJUXEStocZrA",
+  "url": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E5%AE%B6%E7%95%9C%E8%A8%BA%E6%89%80/@23.4849874,120.4403854,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942cead0a7d7:0xb0661cda4ac44525!8m2!3d23.4849874!4d120.4425741",
+  "location": {
+    "lat": 23.4849874,
+    "lng": 120.4425741
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 14
+},
+{
+  "title": "林森動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Corporate office",
+  "address": "No. 312, Linsen East Road, East District, Chiayi City, Taiwan 600             600嘉義市東區林森東路312號",
+  "locatedIn": null,
+  "plusCode": "FFQ7+HM East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 277 9416",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 55,
+  "placeId": "ChIJJciktraVbjQRTU6r7sK7OBs",
+  "url": "https://www.google.com/maps/place/%E6%9E%97%E6%A3%AE%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.488962,120.4619772,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95b6b6a4c825:0x1b38bbc2eeab4e4d!8m2!3d23.488962!4d120.4641659",
+  "location": {
+    "lat": 23.488962,
+    "lng": 120.4641659
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9:30PM"
+    }
+  ],
+  "reviewsCount": 23
+},
+{
+  "title": "興嘉家畜醫院",
+  "totalScore": 5,
+  "categoryName": "",
+  "address": "No. 36, Xuzhou 1st St, West District, Chiayi City, Taiwan 600             600嘉義市西區徐州一街36號",
+  "locatedIn": null,
+  "plusCode": null,
+  "website": null,
+  "phone": "+886 5 285 9766",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 54,
+  "placeId": "ChIJd_H-xSGUbjQRt4Sq0gcnylo",
+  "url": "https://www.google.com/maps/place/%E8%88%88%E5%98%89%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.46742,120.4371903,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9421c5fef177:0x5aca2707d2aa84b7!8m2!3d23.46742!4d120.439379",
+  "location": {
+    "lat": 23.46742,
+    "lng": 120.439379
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "米恩精緻寵物沙龍店",
+  "totalScore": 4.7,
+  "categoryName": "Pet store",
+  "address": "600, Taiwan, Chiayi City, West District, Zhuwei Road, 131號號             600嘉義市西區竹圍路131號號",
+  "locatedIn": null,
+  "plusCode": "FCPH+JV West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 233 1820",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 58,
+  "placeId": "ChIJ8fQDzoaWbjQRH0DBJEhrYas",
+  "url": "https://www.google.com/maps/place/%E7%B1%B3%E6%81%A9%E7%B2%BE%E7%B7%BB%E5%AF%B5%E7%89%A9%E6%B2%99%E9%BE%8D%E5%BA%97/@23.4865512,120.4274602,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9686ce03f4f1:0xab616b4824c1401f!8m2!3d23.4865512!4d120.4296489",
+  "location": {
+    "lat": 23.4865512,
+    "lng": 120.4296489
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 6:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 6:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 6:30PM"
+    }
+  ],
+  "reviewsCount": 17
+},
+{
+  "title": "祥億動物醫院",
+  "totalScore": "",
+  "categoryName": "Veterinarian",
+  "address": "No. 38, Minsheng North Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民生北路38號",
+  "locatedIn": null,
+  "plusCode": "FCFW+WM West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 229 2726",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 32,
+  "placeId": "ChIJg93TTyWUbjQR50aAG3tA32U",
+  "url": "https://www.google.com/maps/place/%E7%A5%A5%E5%84%84%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.474873,120.4445358,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94254fd3dd83:0x65df407b1b8046e7!8m2!3d23.474873!4d120.4467245",
+  "location": {
+    "lat": 23.474873,
+    "lng": 120.4467245
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "大園家畜醫院",
+  "totalScore": 1,
+  "categoryName": "Veterinarian",
+  "address": "No. 872, Minzu Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民族路872號",
+  "locatedIn": null,
+  "plusCode": "FCFQ+W8 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 231 6661",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 22,
+  "placeId": "ChIJc_coqieUbjQRdo7irrQHh4M",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%9C%92%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4748326,120.436107,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9427aa28f773:0x838707b4aee28e76!8m2!3d23.4748326!4d120.4382957",
+  "location": {
+    "lat": 23.4748326,
+    "lng": 120.4382957
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "欣欣動物醫院",
+  "totalScore": "",
+  "categoryName": "Veterinarian",
+  "address": "No. 622, Yijiao Street, East District, Chiayi City, Taiwan 600             600嘉義市東區義教街622號",
+  "locatedIn": null,
+  "plusCode": "FFX4+8F East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 275 8961",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 34,
+  "placeId": "ChIJC8C0HMeVbjQRz8uhGURpS44",
+  "url": "https://www.google.com/maps/place/%E6%AC%A3%E6%AC%A3%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4983209,120.4540239,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95c71cb4c00b:0x8e4b694419a1cbcf!8m2!3d23.4983209!4d120.4562126",
+  "location": {
+    "lat": 23.4983209,
+    "lng": 120.4562126
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "裕發家畜醫院",
+  "totalScore": 4.9,
+  "categoryName": "Hospital",
+  "address": "600, Taiwan, Chiayi City, East District, Minyue Street, 118號600             600嘉義市東區民樂街118號600",
+  "locatedIn": null,
+  "plusCode": "FFJ4+C7 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 225 4018",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 31,
+  "placeId": "ChIJ85SKUTSUbjQRi82YsV4vBQo",
+  "url": "https://www.google.com/maps/place/%E8%A3%95%E7%99%BC%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4810107,120.4534386,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9434518a94f3:0xa052f5eb198cd8b!8m2!3d23.4810107!4d120.4556273",
+  "location": {
+    "lat": 23.4810107,
+    "lng": 120.4556273
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 3 to 6PM, 7 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 6PM, 7 to 9PM"
+    }
+  ],
+  "reviewsCount": 7
+},
+{
+  "title": "天仁",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "600, Taiwan, Chiayi City, East District, 600r嘉義市東區安和街57號             600嘉義市東區600r嘉義市東區安和街57號",
+  "locatedIn": null,
+  "plusCode": "FFG5+R8 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 278 6030",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 33,
+  "placeId": "ChIJMft_GDaUbjQR5B07SFDu-Go",
+  "url": "https://www.google.com/maps/place/%E5%A4%A9%E4%BB%81/@23.477112,120.4560753,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9436187ffb31:0x6af8ee50483b1de4!8m2!3d23.477112!4d120.458264",
+  "location": {
+    "lat": 23.477112,
+    "lng": 120.458264
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 6
+},
+{
+  "title": "安美動物醫院",
+  "totalScore": 4,
+  "categoryName": "",
+  "address": "No. 63, Ziyou Road, West District, Chiayi City, Taiwan 600             600嘉義市西區自由路63號",
+  "locatedIn": null,
+  "plusCode": "FCPQ+9R West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 232 4368",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 39,
+  "placeId": "ChIJW-JLECuUbjQRsBym3UhH30U",
+  "url": "https://www.google.com/maps/place/%E5%AE%89%E7%BE%8E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4859175,120.4373365,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942b104be25b:0x45df4748dda61cb0!8m2!3d23.4859175!4d120.4395252",
+  "location": {
+    "lat": 23.4859175,
+    "lng": 120.4395252
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 1PM, 3 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 1PM, 3 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 1PM, 3 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 1PM, 3 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 1PM, 3 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 1PM, 3 to 9PM"
+    }
+  ],
+  "reviewsCount": 19
+},
+{
+  "title": "啟德家畜醫院",
+  "totalScore": 1,
+  "categoryName": "Veterinarian",
+  "address": "600, Taiwan, Chiayi City, West District, 北社尾路280號9 號             600嘉義市西區北社尾路280號9 號",
+  "locatedIn": null,
+  "plusCode": "FCVF+G5 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 237 0590",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 40,
+  "placeId": "ChIJz0Jv3mKWbjQR-pnZeCCbW7U",
+  "url": "https://www.google.com/maps/place/%E5%95%9F%E5%BE%B7%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4938006,120.4207431,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9662de6f42cf:0xb55b9b2078d999fa!8m2!3d23.4938006!4d120.4229318",
+  "location": {
+    "lat": 23.4938006,
+    "lng": 120.4229318
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "旭生家畜醫院",
+  "totalScore": 5,
+  "categoryName": "Veterinarian",
+  "address": "No. 6, Alley 27, Lane 350, Section 4, Shixian Road, East District, Chiayi City, Taiwan 600             600嘉義市東區世賢路四段350巷27弄6號",
+  "locatedIn": null,
+  "plusCode": "FF62+X4 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 285 2457",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 23,
+  "placeId": "ChIJcXyCSxaUbjQR9M7fksSZGto",
+  "url": "https://www.google.com/maps/place/%E6%97%AD%E7%94%9F%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4624282,120.4481585,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94164b827c71:0xda1a99c492dfcef4!8m2!3d23.4624282!4d120.4503472",
+  "location": {
+    "lat": 23.4624282,
+    "lng": 120.4503472
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "博愛動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Hospital",
+  "address": "No. 389號, Section 1, Bo'ai Road, West District, Chiayi City, Taiwan 600             600嘉義市西區博愛路一段389號",
+  "locatedIn": null,
+  "plusCode": "FCMV+X3 West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 231 3329",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 38,
+  "placeId": "ChIJ-dBn1CyUbjQRV63sJRn460w",
+  "url": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4849778,120.4404514,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942cd467d0f9:0x4cebf81925ecad57!8m2!3d23.4849778!4d120.4426401",
+  "location": {
+    "lat": 23.4849778,
+    "lng": 120.4426401
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8PM"
+    }
+  ],
+  "reviewsCount": 9
+},
+{
+  "title": "興達獸醫院",
+  "totalScore": 4.3,
+  "categoryName": "Hospital",
+  "address": "No. 50-2, Wufeng South Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳南路50-2號",
+  "locatedIn": null,
+  "plusCode": "FFC3+7H East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 229 0407",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 26,
+  "placeId": "ChIJFV3nbzmUbjQRbZ7XBCGNSik",
+  "url": "https://www.google.com/maps/place/%E8%88%88%E9%81%94%E7%8D%B8%E9%86%AB%E9%99%A2/@23.470628,120.4517119,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94396fe75d15:0x294a8d2104d79e6d!8m2!3d23.470628!4d120.4539006",
+  "location": {
+    "lat": 23.470628,
+    "lng": 120.4539006
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 12
+},
+{
+  "title": "諸德家畜醫院",
+  "totalScore": "",
+  "categoryName": "Animal hospital",
+  "address": "No. 106, Wufeng North Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳北路106號",
+  "locatedIn": null,
+  "plusCode": "FFG3+RC East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 227 9206",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 28,
+  "placeId": "ChIJwdja1jaUbjQR9N1WmACoxVg",
+  "url": "https://www.google.com/maps/place/%E8%AB%B8%E5%BE%B7%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4770238,120.4513759,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9436d6dad8c1:0x58c5a8009856ddf4!8m2!3d23.4770238!4d120.4535646",
+  "location": {
+    "lat": 23.4770238,
+    "lng": 120.4535646
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "康良寵物醫院",
+  "totalScore": 3.6,
+  "categoryName": "Hospital",
+  "address": "600, Taiwan, Chiayi City, East District, Xiaoya Road, 501號600             600嘉義市東區小雅路501號600",
+  "locatedIn": null,
+  "plusCode": "FFG9+PM East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 276 7478",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 29,
+  "placeId": "ChIJsRsKZlKUbjQRekWU1SeQ_Pk",
+  "url": "https://www.google.com/maps/place/%E5%BA%B7%E8%89%AF%E5%AF%B5%E7%89%A9%E9%86%AB%E9%99%A2/@23.4768351,120.4670256,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9452660a1bb1:0xf9fc9027d594457a!8m2!3d23.4768351!4d120.4692143",
+  "location": {
+    "lat": 23.4768351,
+    "lng": 120.4692143
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 8
+},
+{
+  "title": "大和動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 862, Section 5, Zhongshan Road, Zhongpu Township, Chiayi County, Taiwan 606             606嘉義縣中埔鄉中山路五段862號",
+  "locatedIn": null,
+  "plusCode": "FF26+P6 Zhongpu Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 230 2629",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 35,
+  "placeId": "ChIJR1gqaW2UbjQRzY9pIF270gc",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%92%8C%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4518682,120.4583622,17z/data=!3m1!4b1!4m5!3m4!1s0x346e946d692a5847:0x7d2bb5d20698fcd!8m2!3d23.4518682!4d120.4605509",
+  "location": {
+    "lat": 23.4518682,
+    "lng": 120.4605509
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 108
+},
+{
+  "title": "嘉陽動物醫院",
+  "totalScore": 5,
+  "categoryName": "Veterinarian",
+  "address": "No. 776, Minzu Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民族路776號",
+  "locatedIn": null,
+  "plusCode": "FCGR+4C West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 228 9595",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 25,
+  "placeId": "ChIJeUwRcyaUbjQRvtPaXrphegA",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E9%99%BD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4753645,120.4388558,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942673114c79:0x7a61ba5edad3be!8m2!3d23.4753645!4d120.4410445",
+  "location": {
+    "lat": 23.4753645,
+    "lng": 120.4410445
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "永全動物醫院",
+  "totalScore": "",
+  "categoryName": "Veterinarian",
+  "address": "600, Taiwan, Chiayi City, East District, Wufeng S Rd, 299號2 號             600嘉義市東區吳鳳南路299號2 號",
+  "locatedIn": null,
+  "plusCode": "FCFQ+33 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 225 3117",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 30,
+  "placeId": "ChIJcexn9D6UbjQRyl6azJAA55E",
+  "url": "https://www.google.com/maps/place/%E6%B0%B8%E5%85%A8%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4727141,120.4355014,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943ef467ec71:0x91e70090cc9a5eca!8m2!3d23.4727141!4d120.4376901",
+  "location": {
+    "lat": 23.4727141,
+    "lng": 120.4376901
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "銓安家畜醫院",
+  "totalScore": "",
+  "categoryName": "Veterinarian",
+  "address": "600, Taiwan, Chiayi City, East District, 溪興街233巷24弄46號             600嘉義市東區溪興街233巷24弄46號",
+  "locatedIn": null,
+  "plusCode": "FF45+86 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": null,
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 37,
+  "placeId": "ChIJbQ_rRxOUbjQR3CpGDQV3gtU",
+  "url": "https://www.google.com/maps/place/%E9%8A%93%E5%AE%89%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4557999,120.4558165,17z/data=!3m1!4b1!4m5!3m4!1s0x346e941347eb0f6d:0xd58277050d462adc!8m2!3d23.4557999!4d120.4580052",
+  "location": {
+    "lat": 23.4557999,
+    "lng": 120.4580052
+  },
+  "searchString": "嘉義市的寵物醫院"
+},
+{
+  "title": "建生家畜醫院",
+  "totalScore": 4.9,
+  "categoryName": "Veterinarian",
+  "address": "No. 725, Yijiao Street, East District, Chiayi City, Taiwan 600             600嘉義市東區義教街725號",
+  "locatedIn": null,
+  "plusCode": "FFX3+9J East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 277 3450",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 36,
+  "placeId": "ChIJ-1xEicaVbjQRpteNVLbEqbE",
+  "url": "https://www.google.com/maps/place/%E5%BB%BA%E7%94%9F%E5%AE%B6%E7%95%9C%E9%86%AB%E9%99%A2/@23.4983855,120.4518785,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95c689445cfb:0xb1a9c4b6548dd7a6!8m2!3d23.4983855!4d120.4540672",
+  "location": {
+    "lat": 23.4983855,
+    "lng": 120.4540672
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 9
+},
+{
+  "title": "大川動物醫院",
+  "totalScore": 3.5,
+  "categoryName": "Hospital",
+  "address": "號 600 嘉義 市 西區 新民 路 627 號, No. 627, Xinmin Road, West District, Chiayi City, Taiwan 600             號 600 嘉義 市 西區 新民 路 627 號, No. 627新民路西區嘉義市600",
+  "locatedIn": null,
+  "plusCode": "FC8R+J2 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 285 8609",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 27,
+  "placeId": "ChIJp62S4CGUbjQRWNChxEs8WB0",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%B7%9D%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4665905,120.4378187,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9421e092ada7:0x1d583c4bc4a1d058!8m2!3d23.4665905!4d120.4400074",
+  "location": {
+    "lat": 23.4665905,
+    "lng": 120.4400074
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    }
+  ],
+  "reviewsCount": 13
+},
+{
+  "title": "上哲動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 259號, Wufeng North Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳北路259號",
+  "locatedIn": null,
+  "plusCode": "FFJ3+55 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 223 1500",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJd4269zOUbjQRMp_QABDpNKA",
+  "url": "https://www.google.com/maps/place/%E4%B8%8A%E5%93%B2%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4803885,120.4507305,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9433f7ba8d77:0xa034e91000d09f32!8m2!3d23.4803885!4d120.4529192",
+  "location": {
+    "lat": 23.4803885,
+    "lng": 120.4529192
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 6PM, 7:30 to 8:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 6PM, 7:30 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 6PM, 7:30 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 6PM, 7:30 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 60
+},
+{
+  "title": "育英動物醫院",
+  "totalScore": 4.2,
+  "categoryName": "Animal hospital",
+  "address": "No. 262號, Minsheng South Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民生南路262號",
+  "locatedIn": null,
+  "plusCode": "FC8W+Q6 West District, Chiayi City, Taiwan",
+  "website": "iyp.com.tw",
+  "phone": "+886 5 285 6100",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 11,
+  "placeId": "ChIJ0844NyOUbjQRkdw6guzMgMM",
+  "url": "https://www.google.com/maps/place/%E8%82%B2%E8%8B%B1%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4668954,120.4433311,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94233738ced3:0xc380ccec823adc91!8m2!3d23.4668954!4d120.4455198",
+  "location": {
+    "lat": 23.4668954,
+    "lng": 120.4455198
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 53
+},
+{
+  "title": "歐美嘉動物醫院",
+  "totalScore": 4.9,
+  "categoryName": "Animal hospital",
+  "address": "No. 35號, Nanjing Road, West District, Chiayi City, Taiwan 600             600嘉義市西區南京路35號",
+  "locatedIn": null,
+  "plusCode": "FC4R+CV West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 284 2227",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 18,
+  "placeId": "ChIJGShDWxuUbjQRW_Tnm3QO4bk",
+  "url": "https://www.google.com/maps/place/%E6%AD%90%E7%BE%8E%E5%98%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4560709,120.439977,17z/data=!3m1!4b1!4m5!3m4!1s0x346e941b5b432819:0xb9e10e749be7f45b!8m2!3d23.4560709!4d120.4421657",
+  "location": {
+    "lat": 23.4560709,
+    "lng": 120.4421657
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    }
+  ],
+  "reviewsCount": 32
+},
+{
+  "title": "高醫動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Veterinarian",
+  "address": "No. 562號, Section 2, Bo'ai Road, West District, Chiayi City, Taiwan 600             600嘉義市西區博愛路二段562號",
+  "locatedIn": null,
+  "plusCode": "FCCJ+M8 West District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 235 1339",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 6,
+  "placeId": "ChIJlUUBLJmWbjQR1LNiVenurNw",
+  "url": "https://www.google.com/maps/place/%E9%AB%98%E9%86%AB%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4716887,120.4286641,17z/data=!3m1!4b1!4m5!3m4!1s0x346e96992c014595:0xdcaceee95562b3d4!8m2!3d23.4716887!4d120.4308528",
+  "location": {
+    "lat": 23.4716887,
+    "lng": 120.4308528
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 365
+},
+{
+  "title": "永全動物醫院",
+  "totalScore": 5,
+  "categoryName": "Veterinarian",
+  "address": "No. 619, Chuiyang Road, East District, Chiayi City, Taiwan 600             600嘉義市東區垂楊路619號",
+  "locatedIn": null,
+  "plusCode": "FCFQ+36 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 285 1987",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 16,
+  "placeId": "ChIJq4KVLyeUbjQRupDneYAKHVw",
+  "url": "https://www.google.com/maps/place/%E6%B0%B8%E5%85%A8%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4726665,120.4358361,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94272f9582ab:0x5c1d0a8079e790ba!8m2!3d23.4726665!4d120.4380248",
+  "location": {
+    "lat": 23.4726665,
+    "lng": 120.4380248
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 1
+},
+{
+  "title": "培安動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "No. 303-1號, Gongming Road, East District, Chiayi City, Taiwan 60047             60047嘉義市東區公明路303-1號",
+  "locatedIn": null,
+  "plusCode": "FFH2+VC East District, Chiayi City, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 5 222 8119",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJHYm7YzGUbjQRZs3lNt7lZgo",
+  "url": "https://www.google.com/maps/place/%E5%9F%B9%E5%AE%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.479738,120.448851,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943163bb891d:0xa66e5de36e5cd66!8m2!3d23.479738!4d120.4510397",
+  "location": {
+    "lat": 23.479738,
+    "lng": 120.4510397
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 12PM, 2 to 5PM, 6 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 12PM, 2 to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 12PM, 2 to 5PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 9PM"
+    }
+  ],
+  "reviewsCount": 107
+},
+{
+  "title": "揚名動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 167號, Wufeng North Road, East District, Chiayi City, Taiwan 600             600嘉義市東區吳鳳北路167號",
+  "locatedIn": null,
+  "plusCode": "FFH3+39 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 222 3630",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 9,
+  "placeId": "ChIJL8SbzjaUbjQRYuBmJuDoAp4",
+  "url": "https://www.google.com/maps/place/%E6%8F%9A%E5%90%8D%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4776814,120.451192,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9436ce9bc42f:0x9e02e8e02666e062!8m2!3d23.4776814!4d120.4533807",
+  "location": {
+    "lat": 23.4776814,
+    "lng": 120.4533807
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 19
+},
+{
+  "title": "艾沐動物醫院",
+  "totalScore": 5,
+  "categoryName": "Animal hospital",
+  "address": "No. 35號, Nanjing Road, West District, Chiayi City, Taiwan 600             600嘉義市西區南京路35號",
+  "locatedIn": null,
+  "plusCode": "FC4R+CV West District, Chiayi City, Taiwan",
+  "website": "business.site",
+  "phone": "+886 5 285 9222",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 20,
+  "placeId": "ChIJ9-wO-xCVbjQRa8ISvO0nSxg",
+  "url": "https://www.google.com/maps/place/%E8%89%BE%E6%B2%90%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4561032,120.4399421,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9510fb0eecf7:0x184b27edbc12c26b!8m2!3d23.4561032!4d120.4421308",
+  "location": {
+    "lat": 23.4561032,
+    "lng": 120.4421308
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 12PM, 2 to 5:30PM, 6:30 to 9PM"
+    }
+  ],
+  "reviewsCount": 10
+},
+{
+  "title": "九大動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 67-1號, Tiyu Road, East District, Chiayi City, Taiwan 60069             60069嘉義市東區體育路67-1號",
+  "locatedIn": null,
+  "plusCode": "FFF6+CJ East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 229 1608",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 13,
+  "placeId": "ChIJ-5qpYUiUbjQRuCuvro7Aj1I",
+  "url": "https://www.google.com/maps/place/%E4%B9%9D%E5%A4%A7%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.47354,120.4593263,17z/data=!3m1!4b1!4m5!3m4!1s0x346e944861a99afb:0x528fc08eaeaf2bb8!8m2!3d23.47354!4d120.461515",
+  "location": {
+    "lat": 23.47354,
+    "lng": 120.461515
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), Closed, Holiday hours"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    }
+  ],
+  "reviewsCount": 21
+},
+{
+  "title": "丸三動物醫院-博東總院",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "號 600 嘉義 市 東區 博 東路 273 號, No. 273, Bodong Road, East District, Chiayi City, Taiwan 600             號 600 嘉義 市 東區 博 東路 273 號, No. 273博東路東區嘉義市600",
+  "locatedIn": null,
+  "plusCode": "FFR5+64 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 271 0669",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 17,
+  "placeId": "ChIJ2xDg6cmVbjQR9dGFBZb-TIw",
+  "url": "https://www.google.com/maps/place/%E4%B8%B8%E4%B8%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2-%E5%8D%9A%E6%9D%B1%E7%B8%BD%E9%99%A2/@23.4905485,120.4556391,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95c9e9e010db:0x8c4cfe960585d1f5!8m2!3d23.4905485!4d120.4578278",
+  "location": {
+    "lat": 23.4905485,
+    "lng": 120.4578278
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "8:30AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 9PM"
+    }
+  ],
+  "reviewsCount": 56
+},
+{
+  "title": "Wan Sun Veterinary Hospital",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 234號, Zhongshan Road, East District, Chiayi City, Taiwan 600             600嘉義市東區中山路234號",
+  "locatedIn": null,
+  "plusCode": "FFJ2+69 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 225 9429",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 8,
+  "placeId": "ChIJQb2k2jOUbjQR5mQ-xNpjT1k",
+  "url": "https://www.google.com/maps/place/Wan+Sun+Veterinary+Hospital/@23.480578,120.4487753,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9433daa4bd41:0x594f63dac43e64e6!8m2!3d23.480578!4d120.450964",
+  "location": {
+    "lat": 23.480578,
+    "lng": 120.450964
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 9PM"
+    }
+  ],
+  "reviewsCount": 66
+},
+{
+  "title": "Charity Animal Hospital",
+  "totalScore": 4.1,
+  "categoryName": "Veterinarian",
+  "address": "No. 214號, Xinsheng Road, East District, Chiayi City, Taiwan 600             600嘉義市東區新生路214號",
+  "locatedIn": null,
+  "plusCode": "FFM6+99 East District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 278 8067",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJsTIKMrWVbjQRs7imnianBBQ",
+  "url": "https://www.google.com/maps/place/Charity+Animal+Hospital/@23.4834705,120.4587783,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95b5320a32b1:0x1404a7269ea6b8b3!8m2!3d23.4834705!4d120.460967",
+  "location": {
+    "lat": 23.4834705,
+    "lng": 120.460967
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 9PM"
+    }
+  ],
+  "reviewsCount": 160
+},
+{
+  "title": "你我牠動物醫院",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "No. 236號, Renai Rd, West District, Chiayi City, Taiwan 600             600嘉義市西區仁愛路236號",
+  "locatedIn": null,
+  "plusCode": "FCCV+54 West District, Chiayi City, Taiwan",
+  "website": "m.facebook.com",
+  "phone": "+886 5 228 3568",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 15,
+  "placeId": "ChIJfQKC9COUbjQRePX_sDhhk0w",
+  "url": "https://www.google.com/maps/place/%E4%BD%A0%E6%88%91%E7%89%A0%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4704896,120.440584,17z/data=!3m1!4b1!4m5!3m4!1s0x346e9423f482027d:0x4c936138b0fff578!8m2!3d23.4704896!4d120.4427727",
+  "location": {
+    "lat": 23.4704896,
+    "lng": 120.4427727
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 9:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 9:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 9:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 9:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 9:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 9:30PM"
+    }
+  ],
+  "reviewsCount": 136
+},
+{
+  "title": "齊恩動物醫院",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "No. 240號, Minsheng South Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民生南路240號",
+  "locatedIn": null,
+  "plusCode": "FC8W+V6 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 236 7038",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 7,
+  "placeId": "ChIJ8W2wOTmUbjQR6jJGKYWUp6U",
+  "url": "https://www.google.com/maps/place/%E9%BD%8A%E6%81%A9%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4672042,120.4434354,17z/data=!3m1!4b1!4m5!3m4!1s0x346e943939b06df1:0xa5a79485294632ea!8m2!3d23.4672042!4d120.4456241",
+  "location": {
+    "lat": 23.4672042,
+    "lng": 120.4456241
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    }
+  ],
+  "reviewsCount": 77
+},
+{
+  "title": "國立嘉義大學動物醫院",
+  "totalScore": 3.8,
+  "categoryName": "Animal hospital",
+  "address": "No. 580, Xinmin Road, West District, Chiayi City, Taiwan 600             600嘉義市西區新民路580號",
+  "locatedIn": "National Chiayi University Sinmin Campus",
+  "plusCode": "FC6V+XG West District, Chiayi City, Taiwan",
+  "website": "ncyu.edu.tw",
+  "phone": "+886 5 273 2988",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 14,
+  "placeId": "ChIJRxKZ1x6UbjQR3GvNs8q0wOk",
+  "url": "https://www.google.com/maps/place/%E5%9C%8B%E7%AB%8B%E5%98%89%E7%BE%A9%E5%A4%A7%E5%AD%B8%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4624135,120.4416439,17z/data=!3m1!4b1!4m5!3m4!1s0x346e941ed7991247:0xe9c0b4cab3cd6bdc!8m2!3d23.4624135!4d120.4438326",
+  "location": {
+    "lat": 23.4624135,
+    "lng": 120.4438326
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "8:30 to 11:30AM, 1:30 to 5PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "1:30 to 5PM, 6:30 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30 to 11:30AM, 1:30 to 5PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30 to 11:30AM, 1:30 to 5PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30 to 11:30AM, 1:30 to 5PM"
+    }
+  ],
+  "reviewsCount": 84
+},
+{
+  "title": "高品動物醫院",
+  "totalScore": 4.1,
+  "categoryName": "Animal hospital",
+  "address": "No. 489, Zhongxing Road, West District, Chiayi City, Taiwan 600             600嘉義市西區中興路489號",
+  "locatedIn": null,
+  "plusCode": "FCHH+GJ West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 281 1893",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJceGCTpuWbjQRqih2EjLhruw",
+  "url": "https://www.google.com/maps/place/%E9%AB%98%E5%93%81%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4788039,120.4268846,17z/data=!3m1!4b1!4m5!3m4!1s0x346e969b4e82e171:0xecaee132127628aa!8m2!3d23.4788039!4d120.4290733",
+  "location": {
+    "lat": 23.4788039,
+    "lng": 120.4290733
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 12PM, 1 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 12PM, 1 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 12PM, 1 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 12PM, 1 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 12PM, 1 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "10AM to 12PM, 1 to 5PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 12PM, 1 to 9PM"
+    }
+  ],
+  "reviewsCount": 183
+},
+{
+  "title": "居財紀念動物醫院",
+  "totalScore": 3.7,
+  "categoryName": "Animal hospital",
+  "address": "No. 150, Liucuo Road, West District, Chiayi City, Taiwan 600             600嘉義市西區劉厝路150號",
+  "locatedIn": null,
+  "plusCode": "FC79+C8 West District, Chiayi City, Taiwan",
+  "website": "animal-hospital.com.tw",
+  "phone": "+886 933 679 722",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 19,
+  "placeId": "ChIJ77pGlbmWbjQRdElNyULHrHA",
+  "url": "https://www.google.com/maps/place/%E5%B1%85%E8%B2%A1%E7%B4%80%E5%BF%B5%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4635224,120.4161308,17z/data=!3m1!4b1!4m5!3m4!1s0x346e96b99546baef:0x70acc742c94d4974!8m2!3d23.4635224!4d120.4183195",
+  "location": {
+    "lat": 23.4635224,
+    "lng": 120.4183195
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 15
+},
+{
+  "title": "DNC 寵物美學",
+  "totalScore": 4.9,
+  "categoryName": "Pet groomer",
+  "address": "No. 46號, Yuanfu Street, East District, Chiayi City, Taiwan 600             600嘉義市東區圓福街46號",
+  "locatedIn": null,
+  "plusCode": "FFP7+7R East District, Chiayi City, Taiwan",
+  "website": "m.facebook.com",
+  "phone": "+886 5 277 8855",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 68,
+  "placeId": "ChIJpbFYeLSVbjQRiFdzbfwyclM",
+  "url": "https://www.google.com/maps/place/DNC+%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AD%B8/@23.485654,120.4623193,17z/data=!3m1!4b1!4m5!3m4!1s0x346e95b47858b1a5:0x537232fc6d735788!8m2!3d23.485654!4d120.464508",
+  "location": {
+    "lat": 23.485654,
+    "lng": 120.464508
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10:30AM to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10:30AM to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10:30AM to 7AM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10:30AM to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10:30AM to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10:30AM to 7PM"
+    }
+  ],
+  "reviewsCount": 22
+},
+{
+  "title": "維醫動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "No. 148-6, Section 2, Jianguo Road, Minxiong Township, Chiayi County, Taiwan 621             621嘉義縣民雄鄉建國路二段148-6號",
+  "locatedIn": null,
+  "plusCode": "GCPP+PH Minxiong Township, Chiayi County, Taiwan",
+  "website": null,
+  "phone": "+886 5 221 6160",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 47,
+  "placeId": "ChIJoUVxsgC-bjQRTwwltQk2WFw",
+  "url": "https://www.google.com/maps/place/%E7%B6%AD%E9%86%AB%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.5368576,120.4342749,17z/data=!3m1!4b1!4m5!3m4!1s0x346ebe00b27145a1:0x5c583609b5250c4f!8m2!3d23.5368576!4d120.4364636",
+  "location": {
+    "lat": 23.5368576,
+    "lng": 120.4364636
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    }
+  ],
+  "reviewsCount": 141
+},
+{
+  "title": "愛貓族貓醫院",
+  "totalScore": 4.5,
+  "categoryName": "Pet supply store",
+  "address": "No. 710, Minzu Road, West District, Chiayi City, Taiwan 600             600嘉義市西區民族路710號",
+  "locatedIn": null,
+  "plusCode": "FCGV+67 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 223 8678",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 24,
+  "placeId": "ChIJFRi_kyWUbjQRmSxsKBJsd-U",
+  "url": "https://www.google.com/maps/place/%E6%84%9B%E8%B2%93%E6%97%8F%E8%B2%93%E9%86%AB%E9%99%A2/@23.4755347,120.4409601,17z/data=!3m1!4b1!4m5!3m4!1s0x346e942593bf1815:0xe5776c12286c2c99!8m2!3d23.4755347!4d120.4431488",
+  "location": {
+    "lat": 23.4755347,
+    "lng": 120.4431488
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 10PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 10PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 10PM"
+    }
+  ],
+  "reviewsCount": 64
+},
+{
+  "title": "民族獸醫院",
+  "totalScore": 3.9,
+  "categoryName": "Veterinarian",
+  "address": "No. 650, Zhongshan Road, West District, Chiayi City, Taiwan 600             600嘉義市西區中山路650號",
+  "locatedIn": null,
+  "plusCode": "FCGQ+5P West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 228 9595",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 10,
+  "placeId": "ChIJgbc2TyaUbjQRMFvZOhp8HUA",
+  "url": "https://www.google.com/maps/place/%E6%B0%91%E6%97%8F%E7%8D%B8%E9%86%AB%E9%99%A2/@23.475473,120.4370653,17z/data=!3m1!4b1!4m5!3m4!1s0x346e94264f36b781:0x401d7c1a3ad95b30!8m2!3d23.475473!4d120.439254",
+  "location": {
+    "lat": 23.475473,
+    "lng": 120.439254
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 169
+},
+{
+  "title": "木川動物醫院",
+  "totalScore": 2.5,
+  "categoryName": "Veterinarian",
+  "address": "No. 46, Xuzhou 5th Street, West District, Chiayi City, Taiwan 600             600嘉義市西區徐州五街46號",
+  "locatedIn": null,
+  "plusCode": "FC8Q+G8 West District, Chiayi City, Taiwan",
+  "website": null,
+  "phone": "+886 5 285 3629",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 21,
+  "placeId": "ChIJJTDlgx-UbjQRNkn0peAFjlY",
+  "url": "https://www.google.com/maps/place/%E6%9C%A8%E5%B7%9D%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.4662833,120.4361422,17z/data=!3m1!4b1!4m5!3m4!1s0x346e941f83e53025:0x568e05e0a5f44936!8m2!3d23.4662833!4d120.4383309",
+  "location": {
+    "lat": 23.4662833,
+    "lng": 120.4383309
+  },
+  "searchString": "嘉義市的寵物醫院",
+  "reviewsCount": 4
+}]

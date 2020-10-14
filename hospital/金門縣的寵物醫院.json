@@ -1,0 +1,220 @@
+[{
+  "title": "Kinmen County Animal and Plant Disease Control Center",
+  "totalScore": 4.1,
+  "categoryName": "Government office",
+  "address": "891, Kinmen County, Jinhu Township, 裕民農莊20號             891金門縣金湖鎮裕民農莊20號",
+  "locatedIn": null,
+  "plusCode": "CCVV+JW Jinhu Township, Kinmen County",
+  "website": "aphin.kinmen.gov.tw",
+  "phone": "+886 8 233 6625",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 6,
+  "placeId": "ChIJxW8URh-lFDQRtW58GqQu2bE",
+  "url": "https://www.google.com/maps/place/Kinmen+County+Animal+and+Plant+Disease+Control+Center/@24.4440957,118.4426151,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a51f46146fc5:0xb1d92ea41a7c6eb5!8m2!3d24.4440957!4d118.4448038",
+  "location": {
+    "lat": 24.4440957,
+    "lng": 118.4448038
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "8AM to 12PM, 1:30 to 5:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8AM to 12PM, 1:30 to 5:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8AM to 12PM, 1:30 to 5:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8AM to 12PM, 1:30 to 5:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "8AM to 12PM, 1:30 to 5:30PM"
+    }
+  ],
+  "reviewsCount": 7
+},
+{
+  "title": "金門縣野生動物救援暨保育協會",
+  "totalScore": 3,
+  "categoryName": "Non-profit organization",
+  "address": "891, Kinmen County, Jinhu Township, 南雄30號             891金門縣金湖鎮南雄30號",
+  "locatedIn": null,
+  "plusCode": "FC2F+GF Jinhu Township, Kinmen County",
+  "website": "facebook.com",
+  "phone": "+886 8 233 3587",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJp1kztk-lFDQRLZv7WltT8OE",
+  "url": "https://www.google.com/maps/place/%E9%87%91%E9%96%80%E7%B8%A3%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E6%95%91%E6%8F%B4%E6%9A%A8%E4%BF%9D%E8%82%B2%E5%8D%94%E6%9C%83/@24.4512771,118.4214913,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a54fb63359a7:0xe1f0535b5afb9b2d!8m2!3d24.4512771!4d118.42368",
+  "location": {
+    "lat": 24.4512771,
+    "lng": 118.42368
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "reviewsCount": 9
+},
+{
+  "title": "育宸動物醫院",
+  "totalScore": 4.2,
+  "categoryName": "Animal hospital",
+  "address": "893, Kinmen County, Jincheng Township, 民族路219號             893金門縣金城鎮民族路219號",
+  "locatedIn": null,
+  "plusCode": "C8J8+3H Jincheng Township, Kinmen County",
+  "website": "facebook.com",
+  "phone": "+886 8 237 1628",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJkQ29hmyiFDQRGoChdVYGypQ",
+  "url": "https://www.google.com/maps/place/%E8%82%B2%E5%AE%B8%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.4301747,118.3142923,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a26c86bd0d91:0x94ca065675a1801a!8m2!3d24.4301747!4d118.316481",
+  "location": {
+    "lat": 24.4301747,
+    "lng": 118.316481
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "reviewsCount": 12
+},
+{
+  "title": "旺旺動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "893, Kinmen County, Jincheng Township, 民權路30巷2弄1號             893金門縣金城鎮民權路30巷2弄1號",
+  "locatedIn": null,
+  "plusCode": "C8J6+X5 Jincheng Township, Kinmen County",
+  "website": null,
+  "phone": "+886 8 231 2810",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJsVI8cHKiFDQRHcQ3EjEfsF4",
+  "url": "https://www.google.com/maps/place/%E6%97%BA%E6%97%BA%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.4324897,118.3082648,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a272703c52b1:0x5eb01f311237c41d!8m2!3d24.4324897!4d118.3104535",
+  "location": {
+    "lat": 24.4324897,
+    "lng": 118.3104535
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "2 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 2 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "2 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "2 to 6:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "2 to 8:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "2 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 23
+},
+{
+  "title": "國興家畜診所",
+  "totalScore": "",
+  "categoryName": "",
+  "address": "893, Kinmen County, 金城鎮西門里富康一村5巷3號2棟             893金門縣金城鎮西門里富康一村5巷3號2棟",
+  "locatedIn": null,
+  "plusCode": "C888+MM Jincheng Township, Kinmen County",
+  "website": null,
+  "phone": "+886 8 232 9605",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJM7o7ARqiFDQRJzxvc-BcqUk",
+  "url": "https://www.google.com/maps/place/%E5%9C%8B%E8%88%88%E5%AE%B6%E7%95%9C%E8%A8%BA%E6%89%80/@24.4166667,118.314478,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a21a013bba33:0x49a95ce0736f3c27!8m2!3d24.4166667!4d118.3166667",
+  "location": {
+    "lat": 24.4166667,
+    "lng": 118.3166667
+  },
+  "searchString": "台灣金門縣的寵物醫院"
+},
+{
+  "title": "金門同伴動物醫院",
+  "totalScore": 4.5,
+  "categoryName": "Animal hospital",
+  "address": "891, Kinmen County, Jinhu Township, 光武路22號             891金門縣金湖鎮光武路22號",
+  "locatedIn": null,
+  "plusCode": "FC2G+HH Jinhu Township, Kinmen County",
+  "website": "facebook.com",
+  "phone": "+886 8 233 1090",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJ_R8_ufClFDQRcQCI0N63duw",
+  "url": "https://www.google.com/maps/place/%E9%87%91%E9%96%80%E5%90%8C%E4%BC%B4%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.4514993,118.4242219,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a5f0b93f1ffd:0xec76b7ded0880071!8m2!3d24.4514993!4d118.4264106",
+  "location": {
+    "lat": 24.4514993,
+    "lng": 118.4264106
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "reviewsCount": 8
+},
+{
+  "title": "衛生福利部金門医院向日葵小舗",
+  "totalScore": "",
+  "categoryName": "コーヒーショップ・喫茶店",
+  "address": "89148, Kinmen County, Jinhu Township, 新市里復興路2號 2 楼             89148金門縣金湖鎮新市里復興路2號 2 楼",
+  "locatedIn": null,
+  "plusCode": "CCR9+FH 金湖鎮, Kinmen County",
+  "website": "m.facebook.com",
+  "phone": "+886 8 233 2546",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 7,
+  "placeId": "ChIJ21rij_2lFDQR4bRyFi_4MoM",
+  "url": "https://www.google.com/maps/place/%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E9%87%91%E9%96%80%E5%8C%BB%E9%99%A2%E5%90%91%E6%97%A5%E8%91%B5%E5%B0%8F%E8%88%97/@24.4412007,118.4167318,17z/data=!3m1!4b1!4m5!3m4!1s0x3414a5fd8fe25adb:0x8332f82f1672b4e1!8m2!3d24.4412007!4d118.4189205",
+  "location": {
+    "lat": 24.4412007,
+    "lng": 118.4189205
+  },
+  "searchString": "台灣金門縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "木曜日",
+      "hours": "(中秋節)、9時40分～23時40分、時間変更の可能性"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "火曜日、9時40分～23時40分.",
+      "hours": "1 週間の営業時間を非表示"
+    }
+  ]
+}]

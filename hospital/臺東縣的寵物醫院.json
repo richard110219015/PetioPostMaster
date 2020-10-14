@@ -1,0 +1,396 @@
+[{
+  "title": "亞東獸醫/藥局",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 420, Gengsheng Road, Taitung City, Taitung County, Taivanas 950             950台東縣台東市更生路420號",
+  "locatedIn": null,
+  "plusCode": "Q47R+2W Taidongas, Taitung County, Taivanas",
+  "website": null,
+  "phone": "+886 8 932 3722",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 10,
+  "placeId": "ChIJHdHDd2y5bzQRCDWDPvD2dQA",
+  "url": "https://www.google.com/maps/place/%E4%BA%9E%E6%9D%B1%E7%8D%B8%E9%86%AB%2F%E8%97%A5%E5%B1%80/@22.7625423,121.1401461,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96c77c3d11d:0x75f6f03e833508!8m2!3d22.7625423!4d121.1423348",
+  "location": {
+    "lat": 22.7625423,
+    "lng": 121.1423348
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "reviewsCount": 14
+},
+{
+  "title": "聯合動物醫院",
+  "totalScore": 4.2,
+  "categoryName": "Animal hospital",
+  "address": "No. 225, Chuanguang Road, Taitung City, Taitung County, Taiwan 950             950台東縣台東市傳廣路225號",
+  "locatedIn": null,
+  "plusCode": "Q46V+WG Taitung City, Taitung County, Taiwan",
+  "website": null,
+  "phone": "+886 8 933 2505",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 6,
+  "placeId": "ChIJX1mUvWu5bzQRKLAwBjsm8Kc",
+  "url": "https://www.google.com/maps/place/%E8%81%AF%E5%90%88%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7623134,121.1416217,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96bbd94595f:0xa7f0263b0630b028!8m2!3d22.7623134!4d121.1438104",
+  "location": {
+    "lat": 22.7623134,
+    "lng": 121.1438104
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 4PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 9PM"
+    }
+  ],
+  "reviewsCount": 39
+},
+{
+  "title": "懷恩動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 575, Lane 805, Kaifeng St, Taitung City, Taitung County, Taivanas 950             950台東縣台東市開封街575號",
+  "locatedIn": null,
+  "plusCode": "Q46R+H8 Taidongas, Taitung County, Taivanas",
+  "website": "facebook.com",
+  "phone": "+886 8 933 3070",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJ9edj8my5bzQReNnbJvscd3I",
+  "url": "https://www.google.com/maps/place/%E6%87%B7%E6%81%A9%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7614436,121.1386801,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96cf263e7f5:0x72771cfb26dbd978!8m2!3d22.7614436!4d121.1408688",
+  "location": {
+    "lat": 22.7614436,
+    "lng": 121.1408688
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09–12,14–21,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,09–12,14–21.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 134
+},
+{
+  "title": "台東犬貓專科醫院",
+  "totalScore": 3.1,
+  "categoryName": "Hospital",
+  "address": "No. 670, Gengsheng Road, Taitung City, Taitung County, Taiwan 950             950台東縣台東市更生路670號",
+  "locatedIn": null,
+  "plusCode": "Q48Q+F7 Taitung City, Taitung County, Taiwan",
+  "website": null,
+  "phone": "+886 8 922 1800",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 9,
+  "placeId": "ChIJb0QTbW65bzQRWX_c0cnn5iw",
+  "url": "https://www.google.com/maps/place/%E5%8F%B0%E6%9D%B1%E7%8A%AC%E8%B2%93%E5%B0%88%E7%A7%91%E9%86%AB%E9%99%A2/@22.7661753,121.1360455,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96e6d13446f:0x2ce6e7c9d1dc7f59!8m2!3d22.7661753!4d121.1382342",
+  "location": {
+    "lat": 22.7661753,
+    "lng": 121.1382342
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "8:30AM to 12PM, 2:30 to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 8:30AM to 12PM, 2:30 to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "8:30AM to 12PM, 2:30 to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "8:30AM to 12PM, 2:30 to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "8:30AM to 12PM, 2:30 to 7PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "8:30AM to 12PM, 2:30 to 7PM"
+    }
+  ],
+  "reviewsCount": 41
+},
+{
+  "title": "心語動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 45號, Xinzhan Street, Taitung City, Taitung County, Taivanas 950             950台東縣台東市新展街45號",
+  "locatedIn": null,
+  "plusCode": "Q49F+P3 Taidongas, Taitung County, Taivanas",
+  "website": "facebook.com",
+  "phone": "+886 8 922 5668",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJ3Y-K4J25bzQRAv6dizZPpAo",
+  "url": "https://www.google.com/maps/place/%E5%BF%83%E8%AA%9E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7693194,121.120498,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb99de08a8fdd:0xaa44f368b9dfe02!8m2!3d22.7693194!4d121.1226867",
+  "location": {
+    "lat": 22.7693194,
+    "lng": 121.1226867
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),10–13,15–18,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,10–13,15–18.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 116
+},
+{
+  "title": "崇仁動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinaras",
+  "address": "574號 更生路 Taydun, Taitung City, Taivanas 950             574號 更生路 Taydun, 台東市950",
+  "locatedIn": null,
+  "plusCode": "Q47Q+VV Taidongas, Taitung County, Taivanas",
+  "website": null,
+  "phone": "+886 8 935 2199",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 7,
+  "placeId": "ChIJLYWULGy5bzQRgGDhJTW5820",
+  "url": "https://www.google.com/maps/place/%E5%B4%87%E4%BB%81%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7646876,121.1374864,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96c2c94852d:0x6df3b93525e16080!8m2!3d22.7646876!4d121.1396751",
+  "location": {
+    "lat": 22.7646876,
+    "lng": 121.1396751
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "reviewsCount": 17
+},
+{
+  "title": "瑞興寵物用品美容",
+  "totalScore": null,
+  "categoryName": "Gyvūnų parduotuvė",
+  "address": "No. 540號, Gengsheng Road, Taitung City, Taitung County, Taivanas 950             950台東縣台東市更生路540號",
+  "locatedIn": null,
+  "plusCode": "Q47R+J2 Taidongas, Taitung County, Taivanas",
+  "website": "facebook.com",
+  "phone": "+886 8 932 3682",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 11,
+  "placeId": "ChIJEwxoMGy5bzQRMiyQqhuJr_0",
+  "url": "https://www.google.com/maps/place/%E7%91%9E%E8%88%88%E5%AF%B5%E7%89%A9%E7%94%A8%E5%93%81%E7%BE%8E%E5%AE%B9/@22.7641163,121.1379064,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb96c30680c13:0xfdaf891baa902c32!8m2!3d22.7641163!4d121.1400951",
+  "location": {
+    "lat": 22.7641163,
+    "lng": 121.1400951
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),08:30–20,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,08:30–20.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 26
+},
+{
+  "title": "寶佳動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 107, Chuanguang Road, Taitung City, Taitung County, Taivanas 950             950台東縣台東市傳廣路107號",
+  "locatedIn": null,
+  "plusCode": "Q45V+FG Taidongas, Taitung County, Taivanas",
+  "website": null,
+  "phone": "+886 8 935 9858",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJ9cpEtRS5bzQRkhjYPFEhVYA",
+  "url": "https://www.google.com/maps/place/%E5%AF%B6%E4%BD%B3%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.758743,121.1415981,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb914b544caf5:0x805521513cd81892!8m2!3d22.758743!4d121.1437868",
+  "location": {
+    "lat": 22.758743,
+    "lng": 121.1437868
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09–11:30,14–20:30,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,09–11:30,14–20:30.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 111
+},
+{
+  "title": "中華動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 325號, Section 2, Zhonghua Road, Taitung City, Taitung County, Taivanas 950             950台東縣台東市中華路二段325號",
+  "locatedIn": null,
+  "plusCode": "P4VP+78 Taidongas, Taitung County, Taivanas",
+  "website": null,
+  "phone": "+886 8 932 1686",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJO8XAx425bzQRKovCypaWA58",
+  "url": "https://www.google.com/maps/place/%E4%B8%AD%E8%8F%AF%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7431466,121.1336819,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb98dc7c0c53b:0x9f039696cac28b2a!8m2!3d22.7431466!4d121.1358706",
+  "location": {
+    "lat": 22.7431466,
+    "lng": 121.1358706
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09–12,14–20,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,09–12,14–20.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 24
+},
+{
+  "title": "向日動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "號, No. 364, Section 1, Zhonghua Road, Taitung City, Taitung County, Taivanas 950             號, No. 364中華路一段台東市台東縣950",
+  "locatedIn": null,
+  "plusCode": "Q533+V8 Taidongas, Taitung County, Taivanas",
+  "website": null,
+  "phone": "+886 8 934 2501",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 8,
+  "placeId": "ChIJc_NOLj-5bzQR-eAo91yIJOA",
+  "url": "https://www.google.com/maps/place/%E5%90%91%E6%97%A5%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7546255,121.1511593,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb93f2e4ef373:0xe024885cf728e0f9!8m2!3d22.7546255!4d121.153348",
+  "location": {
+    "lat": 22.7546255,
+    "lng": 121.153348
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09:30–12,14–18:30,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,09:30–12,14–18:30.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 179
+},
+{
+  "title": "專一動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 229號, Gengsheng Road, Taitung City, Taitung County, Taivanas 95051             95051台東縣台東市更生路229號",
+  "locatedIn": null,
+  "plusCode": "Q46W+37 Taidongas, Taitung County, Taivanas",
+  "website": "business.site",
+  "phone": "+886 8 934 3458",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJXcMBQuy5bzQRfvdgl2MmGLM",
+  "url": "https://www.google.com/maps/place/%E5%B0%88%E4%B8%80%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@22.7602142,121.1434718,17z/data=!3m1!4b1!4m5!3m4!1s0x346fb9ec4201c35d:0xb31826639760f77e!8m2!3d22.7602142!4d121.1456605",
+  "location": {
+    "lat": 22.7602142,
+    "lng": 121.1456605
+  },
+  "searchString": "臺東縣的寵物醫院",
+  "openingHours": [
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),12–15,19–21,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "day": "antradienis,12–15,19–21.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 50
+}]

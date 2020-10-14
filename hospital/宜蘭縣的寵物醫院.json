@@ -1,0 +1,990 @@
+[{
+  "title": "東園動物醫院(倉鼠也有看)",
+  "totalScore": 5,
+  "categoryName": "Hospital",
+  "address": "號, No. 9, Xingfu Road, Yilan City, Yilan County, Taiwan 260             號, No. 9幸福路宜蘭市宜蘭縣260",
+  "locatedIn": null,
+  "plusCode": "QQ54+XX Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 932 7752",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 18,
+  "placeId": "ChIJHzJk7tDkZzQR2uMyElO613U",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E5%9C%92%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2(%E5%80%89%E9%BC%A0%E4%B9%9F%E6%9C%89%E7%9C%8B)/@24.7599338,121.755263,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4d0ee64321f:0x75d7ba531232e3da!8m2!3d24.7599338!4d121.7574517",
+  "location": {
+    "lat": 24.7599338,
+    "lng": 121.7574517
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 5PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 5PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 5PM"
+    }
+  ],
+  "reviewsCount": 6
+},
+{
+  "title": "劉獸醫院",
+  "totalScore": 2.5,
+  "categoryName": "Veterinarian",
+  "address": "No. 21, Zhongzheng Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮中正路21號",
+  "locatedIn": null,
+  "plusCode": "MQFC+75 Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 955 0003",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 17,
+  "placeId": "ChIJ2RWPfXzmZzQR4ymKt1bYwLE",
+  "url": "https://www.google.com/maps/place/%E5%8A%89%E7%8D%B8%E9%86%AB%E9%99%A2/@24.6732489,121.7682487,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e67c7d8f15d9:0xb1c0d856b78a29e3!8m2!3d24.6732489!4d121.7704374",
+  "location": {
+    "lat": 24.6732489,
+    "lng": 121.7704374
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8:30PM"
+    }
+  ],
+  "reviewsCount": 27
+},
+{
+  "title": "六福動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 100號, Section 2, Yixing Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市宜興路二段100號",
+  "locatedIn": null,
+  "plusCode": "QQ65+6X Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 931 5690",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 11,
+  "placeId": "ChIJBU1PLNfkZzQRXrFnvGvSW0o",
+  "url": "https://www.google.com/maps/place/%E5%85%AD%E7%A6%8F%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.7605529,121.7577582,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4d72c4f4d05:0x4a5bd26bbc67b15e!8m2!3d24.7605529!4d121.7599469",
+  "location": {
+    "lat": 24.7605529,
+    "lng": 121.7599469
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), Closed, Holiday hours"
+    },
+    {
+      "day": "Friday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "10AM to 12PM, 2 to 5PM, 6 to 8PM"
+    }
+  ],
+  "reviewsCount": 188
+},
+{
+  "title": "維倫斯動物醫院",
+  "totalScore": 3.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 157號, Section 3, Zhongshan Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市中山路三段157號",
+  "locatedIn": null,
+  "plusCode": "QQ53+R5 Yilan City, Yilan County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 3 935 3550",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJYTXliCLlZzQRXb7QpBLGE48",
+  "url": "https://www.google.com/maps/place/%E7%B6%AD%E5%80%AB%E6%96%AF%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.7595571,121.7507477,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e52288e53561:0x8f13c612a4d0be5d!8m2!3d24.7595571!4d121.7529364",
+  "location": {
+    "lat": 24.7595571,
+    "lng": 121.7529364
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 12 to 5:30PM, 7 to 9PM, Holiday hours"
+    },
+    {
+      "day": "Friday,",
+      "hours": "12 to 5:30PM, 7PM to 12AM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "12 to 5:30PM, 7PM to 12AM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "12 to 5:30PM, 7PM to 12AM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "12 to 5:30PM, 7PM to 12AM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "12 to 5:30PM, 7PM to 12AM"
+    }
+  ],
+  "reviewsCount": 33
+},
+{
+  "title": "挪亞動物醫院",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "No. 223號, Section 1, Chunjing Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮純精路一段223號",
+  "locatedIn": null,
+  "plusCode": "MQF7+HC Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 951 9525",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJ1YK_vIfmZzQRwVkFdmjl0jg",
+  "url": "https://www.google.com/maps/place/%E6%8C%AA%E4%BA%9E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.673985,121.7613296,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e687bcbf82d5:0x38d2e568760559c1!8m2!3d24.673985!4d121.7635183",
+  "location": {
+    "lat": 24.673985,
+    "lng": 121.7635183
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12:30PM, 3:30 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12:30PM, 3:30 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12:30PM, 3:30 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12:30PM, 3:30 to 5:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12:30PM, 3:30 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12:30PM, 3:30 to 8PM"
+    }
+  ],
+  "reviewsCount": 102
+},
+{
+  "title": "腳印動物醫院 Dr.Paws Animal Hospital",
+  "totalScore": 4.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 25, Section 1, Chunjing Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮純精路一段25號",
+  "locatedIn": null,
+  "plusCode": "MQ98+H8 Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 961 2126      phone4",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 13,
+  "placeId": "ChIJK83Vh2LmZzQRv7-qA2Kt4-E",
+  "url": "https://www.google.com/maps/place/%E8%85%B3%E5%8D%B0%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2+Dr.Paws+Animal+Hospital/@24.6689785,121.7636486,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e66287d5cd2b:0xe1e3ad6203aabfbf!8m2!3d24.6689785!4d121.7658373",
+  "location": {
+    "lat": 24.6689785,
+    "lng": 121.7658373
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 10AM to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "10AM to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "10AM to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "Closed"
+    }
+  ],
+  "reviewsCount": 64
+},
+{
+  "title": "季廷動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 415號, Section 2, Zhongshan Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮中山路二段415號",
+  "locatedIn": null,
+  "plusCode": "MQGG+27 Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 953 3111",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 16,
+  "placeId": "ChIJz9jF-nnmZzQRJt_uruCCJZQ",
+  "url": "https://www.google.com/maps/place/%E5%AD%A3%E5%BB%B7%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6750311,121.7735159,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e679fac5d8cf:0x942582e0aeeedf26!8m2!3d24.6750311!4d121.7757046",
+  "location": {
+    "lat": 24.6750311,
+    "lng": 121.7757046
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12:30PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12:30PM, 3 to 6PM, 7 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12:30PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12:30PM, 3 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12:30PM, 3 to 6PM, 7 to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12:30PM, 3 to 6PM, 7 to 9PM"
+    }
+  ],
+  "reviewsCount": 63
+},
+{
+  "title": "凱麗動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 289號, Xinxing Road, Toucheng Township, Yilan County, Taiwan 261             261宜蘭縣頭城鎮新興路289號",
+  "locatedIn": null,
+  "plusCode": "VR4C+G2 Jiaoxi Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 977 9157",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 14,
+  "placeId": "ChIJT_UJ8lz3ZzQRmWyJKBF4AlE",
+  "url": "https://www.google.com/maps/place/%E5%87%B1%E9%BA%97%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.856347,121.8178863,17z/data=!3m1!4b1!4m5!3m4!1s0x3467f75cf209f54f:0x5102781128896c99!8m2!3d24.856347!4d121.820075",
+  "location": {
+    "lat": 24.856347,
+    "lng": 121.820075
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    }
+  ],
+  "reviewsCount": 7
+},
+{
+  "title": "Ilan Animal Hospital",
+  "totalScore": 4.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 65, Section 1, Yixing Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市宜興路一段65號",
+  "locatedIn": null,
+  "plusCode": "PQX4+X6 Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 932 4774",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJC94tEd3kZzQR-mIDFkN9GyI",
+  "url": "https://www.google.com/maps/place/Ilan+Animal+Hospital/@24.7499215,121.7533904,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4dd112dde0b:0x221b7d43160362fa!8m2!3d24.7499215!4d121.7555791",
+  "location": {
+    "lat": 24.7499215,
+    "lng": 121.7555791
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9 to 11:30AM, 2 to 7:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9 to 11:30AM, 2 to 7:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9 to 11:30AM, 2 to 7:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9 to 11:30AM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9 to 11:30AM, 2 to 7:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9 to 11:30AM, 2 to 7:30PM"
+    }
+  ],
+  "reviewsCount": 105
+},
+{
+  "title": "宜蘭佳佳動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 331號, Section 1, Lanfeng Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市嵐峰路一段331號",
+  "locatedIn": null,
+  "plusCode": "PPRW+PW Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 933 4556      phone5",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 7,
+  "placeId": "ChIJzwvkze3kZzQRcoQZ_RyI2Wo",
+  "url": "https://www.google.com/maps/place/%E5%AE%9C%E8%98%AD%E4%BD%B3%E4%BD%B3%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.7417726,121.7450965,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4edcde40bcf:0x6ad9881cfd198472!8m2!3d24.7417726!4d121.7472852",
+  "location": {
+    "lat": 24.7417726,
+    "lng": 121.7472852
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 5PM, 5:30 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 5PM, 5:30 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 5PM, 5:30 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 5PM, 5:30 to 8:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 5PM, 5:30 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 161
+},
+{
+  "title": "吉利動物醫院",
+  "totalScore": 3.1,
+  "categoryName": "",
+  "address": "No. 377, Section 1, Zhongshan Road, Su'ao Township, Yilan County, Taiwan 270             270宜蘭縣蘇澳鎮中山路一段377號",
+  "locatedIn": null,
+  "plusCode": "HRWR+9C Su'ao Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 995 1717",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 20,
+  "placeId": "ChIJXfJDZDnoZzQRFHIy9HE2gJ8",
+  "url": "https://www.google.com/maps/place/%E5%90%89%E5%88%A9%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.595935,121.838853,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e8396443f25d:0x9f803671f4327214!8m2!3d24.595935!4d121.8410417",
+  "location": {
+    "lat": 24.595935,
+    "lng": 121.8410417
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "reviewsCount": 9
+},
+{
+  "title": "陽明動物醫院",
+  "totalScore": 3.8,
+  "categoryName": "Animal hospital",
+  "address": "No. 211號, Xingdong Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮興東路211號",
+  "locatedIn": null,
+  "plusCode": "MQJ9+RV Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 932 906 596",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 15,
+  "placeId": "ChIJ66R77NXlZzQRhVZ0bY3ocrk",
+  "url": "https://www.google.com/maps/place/%E9%99%BD%E6%98%8E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6821196,121.7674666,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e5d5ec7ba4eb:0xb972e88d6d745685!8m2!3d24.6821196!4d121.7696553",
+  "location": {
+    "lat": 24.6821196,
+    "lng": 121.7696553
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 8:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 8:30PM"
+    }
+  ],
+  "reviewsCount": 39
+},
+{
+  "title": "德生動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Veterinarian",
+  "address": "No. 68, Xinmin Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市新民路68號",
+  "locatedIn": null,
+  "plusCode": "QQ44+QM Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 931 2162",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 12,
+  "placeId": "ChIJD7urX9rkZzQRw5xsZN3E9wQ",
+  "url": "https://www.google.com/maps/place/%E5%BE%B7%E7%94%9F%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.7569086,121.7545545,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4da5fabbb0f:0x4f7c4dd646c9cc3!8m2!3d24.7569086!4d121.7567432",
+  "location": {
+    "lat": 24.7569086,
+    "lng": 121.7567432
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 12PM, 2 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 12PM, 2 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 26
+},
+{
+  "title": "羅東動物醫院",
+  "totalScore": 4.5,
+  "categoryName": "Veterinarian",
+  "address": "No. 9號, Cangqian Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮倉前路9號",
+  "locatedIn": null,
+  "plusCode": "MQJG+C4 Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 954 7766",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJ1WxU6tflZzQRHWuhzTQBiOE",
+  "url": "https://www.google.com/maps/place/%E7%BE%85%E6%9D%B1%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6810555,121.7731411,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e5d7ea546cd5:0xe1880134cda16b1d!8m2!3d24.6810555!4d121.7753298",
+  "location": {
+    "lat": 24.6810555,
+    "lng": 121.7753298
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 8PM"
+    }
+  ],
+  "reviewsCount": 124
+},
+{
+  "title": "旺旺動物醫院",
+  "totalScore": 4.3,
+  "categoryName": "Animal hospital",
+  "address": "No. 91, Lane 42, Ziqiang Road, Wujie Township, Yilan County, Taiwan 268             268宜蘭縣五結鄉自強路42巷91號",
+  "locatedIn": null,
+  "plusCode": "MQMW+G6 Wujie Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 950 8736",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 9,
+  "placeId": "ChIJiX9yuuXlZzQRkxHNg09KfbY",
+  "url": "https://www.google.com/maps/place/%E6%97%BA%E6%97%BA%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6837577,121.7933127,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e5e5ba727f89:0xb67d4a4f83cd1193!8m2!3d24.6837577!4d121.7955014",
+  "location": {
+    "lat": 24.6837577,
+    "lng": 121.7955014
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 6PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    }
+  ],
+  "reviewsCount": 31
+},
+{
+  "title": "三寶動物醫院",
+  "totalScore": 4.1,
+  "categoryName": "Animal hospital",
+  "address": "No. 156號, Section 1, Zhongzheng Road, Wujie Township, Yilan County, Taiwan 268             268宜蘭縣五結鄉中正路一段156號",
+  "locatedIn": null,
+  "plusCode": "MQRC+54 Wujie Township, Yilan County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 3 956 7273",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 6,
+  "placeId": "ChIJKcC_JRXlZzQREFvwN_BdTa0",
+  "url": "https://www.google.com/maps/place/%E4%B8%89%E5%AF%B6%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6904989,121.7681726,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e51525bfc029:0xad4d5df037f05b10!8m2!3d24.6904989!4d121.7703613",
+  "location": {
+    "lat": 24.6904989,
+    "lng": 121.7703613
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "12 to 5PM, 6 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 12 to 5PM, 6 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "12 to 5PM, 6 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9 to 11AM, 12 to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "12 to 5PM, 6 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "12 to 5PM, 6 to 8PM"
+    }
+  ],
+  "reviewsCount": 15
+},
+{
+  "title": "台大動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Animal hospital",
+  "address": "No. 86, Aiguo Road, Luodong Township, Yilan County, Taiwan 265             265宜蘭縣羅東鎮愛國路86號",
+  "locatedIn": null,
+  "plusCode": "MQM8+WR Luodong Township, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 954 8581      phone3",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 8,
+  "placeId": "ChIJzzl-5NTlZzQRftXDGS_EcwI",
+  "url": "https://www.google.com/maps/place/%E5%8F%B0%E5%A4%A7%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.6847777,121.7649013,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e5d4e47e39cf:0x273c42f19c3d57e!8m2!3d24.6847777!4d121.76709",
+  "location": {
+    "lat": 24.6847777,
+    "lng": 121.76709
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 4 to 5PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 4 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 4 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 4 to 8PM"
+    }
+  ],
+  "reviewsCount": 223
+},
+{
+  "title": "凱亞動物醫院",
+  "totalScore": 4.7,
+  "categoryName": "Animal hospital",
+  "address": "No. 149號, Section 2, Jiankang Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市健康路二段149號",
+  "locatedIn": null,
+  "plusCode": "PQX2+P7 Yilan City, Yilan County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 3 932 5670",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJlxwXf8LkZzQRQECL0FGP0u0",
+  "url": "https://www.google.com/maps/place/%E5%87%B1%E4%BA%9E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.749262,121.7484843,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4c27f171c97:0xedd28f51d08b4040!8m2!3d24.749262!4d121.750673",
+  "location": {
+    "lat": 24.749262,
+    "lng": 121.750673
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), Closed, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    }
+  ],
+  "reviewsCount": 168
+},
+{
+  "title": "蘭陽動物醫院",
+  "totalScore": 3.9,
+  "categoryName": "Doctor",
+  "address": "26068, Taiwan, Yilan County, Yilan City, 東港路2段79號             26068宜蘭縣宜蘭市東港路2段79號",
+  "locatedIn": null,
+  "plusCode": "QQ2F+67 Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 937 3187",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 19,
+  "placeId": "ChIJoyvIxSblZzQRpajKT99--5c",
+  "url": "https://www.google.com/maps/place/%E8%98%AD%E9%99%BD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.750536,121.7710543,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e526c5c82ba3:0x97fb7edf4fcaa8a5!8m2!3d24.750536!4d121.773243",
+  "location": {
+    "lat": 24.750536,
+    "lng": 121.773243
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9:30 to 11:30AM, 3 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30 to 11:30AM, 3 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30 to 11:30AM, 3 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30 to 11:30AM, 3 to 8PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30 to 11:30AM, 3 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9:30 to 11:30AM, 3 to 8PM"
+    }
+  ],
+  "reviewsCount": 33
+},
+{
+  "title": "Kavalan Animal Hospital",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "No. 119, Xinxing Road, Yilan City, Yilan County, Taiwan 260             260宜蘭縣宜蘭市新興路119號",
+  "locatedIn": null,
+  "plusCode": "QQ64+JP Yilan City, Yilan County, Taiwan",
+  "website": null,
+  "phone": "+886 3 932 6119",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 10,
+  "placeId": "ChIJuxY4BtHkZzQRVhduIo1Wghg",
+  "url": "https://www.google.com/maps/place/Kavalan+Animal+Hospital/@24.7616054,121.7546011,17z/data=!3m1!4b1!4m5!3m4!1s0x3467e4d1063816bb:0x1882568d226e1756!8m2!3d24.7616054!4d121.7567898",
+  "location": {
+    "lat": 24.7616054,
+    "lng": 121.7567898
+  },
+  "searchString": "宜蘭縣的寵物醫院",
+  "openingHours": [
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 1:30 to 8PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 1:30 to 8PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 1:30 to 8PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 1:30 to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9 to 11AM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 1:30 to 8PM"
+    },
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 1:30 to 8PM"
+    }
+  ],
+  "reviewsCount": 217
+}]

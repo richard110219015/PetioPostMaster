@@ -1,0 +1,776 @@
+[{
+  "title": "雅富動物醫院",
+  "totalScore": 3.5,
+  "categoryName": "Animal hospital",
+  "address": "No. 80號, Guanghua Street, Puli Township, Nantou County, Taiwan 545             545南投縣埔里鎮光華街80號",
+  "locatedIn": null,
+  "plusCode": "XX68+58 Puli Township, Nantou County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 4 9242 2585      phone3",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 10,
+  "placeId": "ChIJa0Z0fJzZaDQRwgFXIXZHA60",
+  "url": "https://www.google.com/maps/place/%E9%9B%85%E5%AF%8C%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9604879,120.9635805,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d99c7c74466b:0xad034776215701c2!8m2!3d23.9604879!4d120.9657692",
+  "location": {
+    "lat": 23.9604879,
+    "lng": 120.9657692
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 8:30PM"
+    }
+  ],
+  "reviewsCount": 123
+},
+{
+  "title": "嘉陽動物醫院",
+  "totalScore": 3.5,
+  "categoryName": "",
+  "address": "No. 62, Beize Street, Puli Township, Nantou County, Taiwan 545             545南投縣埔里鎮北澤街62號",
+  "locatedIn": null,
+  "plusCode": "XX8C+F9 Puli Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9299 7320",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 22,
+  "placeId": "ChIJ7VrcG5zZaDQRsMRQcMGQy60",
+  "url": "https://www.google.com/maps/place/%E5%98%89%E9%99%BD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.966195,120.9686973,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d99c1bdc5aed:0xadcb90c17050c4b0!8m2!3d23.966195!4d120.970886",
+  "location": {
+    "lat": 23.966195,
+    "lng": 120.970886
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 9PM"
+    }
+  ],
+  "reviewsCount": 58
+},
+{
+  "title": "佳欣動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinaras",
+  "address": "No. 153號, Pingdeng Street, Caotun Township, Nantou County, Taivanas 542             542南投縣草屯鎮平等街153號",
+  "locatedIn": null,
+  "plusCode": "XMMP+V7 Caotun Township, Nantou County, Taivanas",
+  "website": "facebook.com",
+  "phone": "+886 4 9238 0784",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 8,
+  "placeId": "ChIJz-s7LvcxaTQRZaaARnthArg",
+  "url": "https://www.google.com/maps/place/%E4%BD%B3%E6%AC%A3%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9847068,120.6835441,17z/data=!3m1!4b1!4m5!3m4!1s0x346931f72e3bebcf:0xb802617b4680a665!8m2!3d23.9847068!4d120.6857328",
+  "location": {
+    "lat": 23.9847068,
+    "lng": 120.6857328
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    null,
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09–12,14–17,18–21,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    {
+      "day": "pirmadienis,09–12,14–17,18–21.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 52
+},
+{
+  "title": "大愛動物医院",
+  "totalScore": 4.7,
+  "categoryName": "獣医師",
+  "address": "No. 407號, Bo'ai Road, Caotun Township, Nantou County, 台湾 542             542南投縣草屯鎮博愛路407號",
+  "locatedIn": null,
+  "plusCode": "XMPP+6C 草屯鎮, 台湾 Nantou County",
+  "website": null,
+  "phone": "+886 4 9238 1559",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 11,
+  "placeId": "ChIJWbc9gHMwaTQRNiq-1OPQSIk",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%84%9B%E5%8B%95%E7%89%A9%E5%8C%BB%E9%99%A2/@23.985507,120.6838813,17z/data=!3m1!4b1!4m5!3m4!1s0x34693073803db759:0x8948d0e3d4be2a36!8m2!3d23.985507!4d120.68607",
+  "location": {
+    "lat": 23.985507,
+    "lng": 120.68607
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    null,
+    null,
+    {
+      "day": "木曜日",
+      "hours": "(中秋節)、9時30分～12時00分、15時00分～18時00分、時間変更の可能性"
+    },
+    null,
+    null,
+    null,
+    {
+      "day": "月曜日、9時30分～12時00分、15時00分～18時00分.",
+      "hours": "1 週間の営業時間を非表示"
+    }
+  ],
+  "reviewsCount": 111
+},
+{
+  "title": "三信行家畜診所",
+  "totalScore": 3.2,
+  "categoryName": "Veterinarian",
+  "address": "No. 110, Zhongshan Street, Nantou City, Nantou County, Taiwan 540             540南投縣南投市中山街110號",
+  "locatedIn": null,
+  "plusCode": "WM5P+4H Nantou City, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9222 3638",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 17,
+  "placeId": "ChIJVW_1_ooxaTQRDzV-L7u1-hU",
+  "url": "https://www.google.com/maps/place/%E4%B8%89%E4%BF%A1%E8%A1%8C%E5%AE%B6%E7%95%9C%E8%A8%BA%E6%89%80/@23.907818,120.6842043,17z/data=!3m1!4b1!4m5!3m4!1s0x3469318afef56f55:0x15fab5bb2f7e350f!8m2!3d23.907818!4d120.686393",
+  "location": {
+    "lat": 23.907818,
+    "lng": 120.686393
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 6
+},
+{
+  "title": "霧峰愛犬動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinaras",
+  "address": "No. 1112號, Zhongzheng Rd, Wufeng District, Taichung City, Taivanas 413             413台中市霧峰區中正路1112號",
+  "locatedIn": null,
+  "plusCode": "3M9X+VQ Wufeng District, Taichung City, Taivanas",
+  "website": null,
+  "phone": "+886 4 2330 8787",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 19,
+  "placeId": "ChIJgRanwVk7aTQRWlCehmQTekQ",
+  "url": "https://www.google.com/maps/place/%E9%9C%A7%E5%B3%B0%E6%84%9B%E7%8A%AC%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.069706,120.6972443,17z/data=!3m1!4b1!4m5!3m4!1s0x34693b59c1a71681:0x447a1364869e505a!8m2!3d24.069706!4d120.699433",
+  "location": {
+    "lat": 24.069706,
+    "lng": 120.699433
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    null,
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),08–12,14–21:30,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    {
+      "day": "pirmadienis,08–12,14–21:30.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 17
+},
+{
+  "title": "東南動物醫院",
+  "totalScore": 4.4,
+  "categoryName": "Animal hospital",
+  "address": "No. 98之1號, Fuxing Road, Nantou City, Nantou County, Taiwan 540             540南投縣南投市復興路98之1號",
+  "locatedIn": null,
+  "plusCode": "WM3Q+P5 Nantou City, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9223 6287",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 4,
+  "placeId": "ChIJtRkBDiAyaTQR8D6BN7zEaJo",
+  "url": "https://www.google.com/maps/place/%E6%9D%B1%E5%8D%97%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.90432,120.6857523,17z/data=!3m1!4b1!4m5!3m4!1s0x346932200e0119b5:0x9a68c4bc37813ef0!8m2!3d23.90432!4d120.687941",
+  "location": {
+    "lat": 23.90432,
+    "lng": 120.687941
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 2 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 6PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 9PM"
+    }
+  ],
+  "reviewsCount": 111
+},
+{
+  "title": "大群動物医院",
+  "totalScore": 2.9,
+  "categoryName": "獣医師",
+  "address": "No. 551, Zhongxing Road, Nantou City, Nantou County, 台湾 540             540南投縣南投市中興路551號",
+  "locatedIn": null,
+  "plusCode": "WM4R+H7 南投市, 台湾 Nantou County",
+  "website": null,
+  "phone": "+886 4 9222 3730",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 3,
+  "placeId": "ChIJx1h_F_UxaTQR_UtPvgHrN88",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E7%BE%A4%E5%8B%95%E7%89%A9%E5%8C%BB%E9%99%A2/@23.9063955,120.6884683,17z/data=!3m1!4b1!4m5!3m4!1s0x346931f5177f58c7:0xcf37eb01be4f4bfd!8m2!3d23.9063955!4d120.690657",
+  "location": {
+    "lat": 23.9063955,
+    "lng": 120.690657
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 54
+},
+{
+  "title": "中興動物醫院",
+  "totalScore": 4.5,
+  "categoryName": "Veterinarian",
+  "address": "No. 100, Section 2, Taiping Road, Caotun Township, Nantou County, Taiwan 542             542南投縣草屯鎮太平路二段100號",
+  "locatedIn": null,
+  "plusCode": "XMCM+J7 Caotun Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9233 3969",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 1,
+  "placeId": "ChIJGRFV9WkwaTQR2L1BZatx6YQ",
+  "url": "https://www.google.com/maps/place/%E4%B8%AD%E8%88%88%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.971508,120.6810593,17z/data=!3m1!4b1!4m5!3m4!1s0x34693069f5551119:0x84e971ab6541bdd8!8m2!3d23.971508!4d120.683248",
+  "location": {
+    "lat": 23.971508,
+    "lng": 120.683248
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9 to 11:30AM, 1:30 to 8:30PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9 to 11:30AM, 1:30 to 8:30PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9 to 11:30AM, 1:30 to 8:30PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9 to 11:30AM, 1:30 to 8:30PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9 to 11:30AM, 1:30 to 8:30PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9 to 11:30AM, 1:30 to 3:30PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9 to 11:30AM, 1:30 to 3:30PM"
+    }
+  ],
+  "reviewsCount": 159
+},
+{
+  "title": "新豐獸醫院",
+  "totalScore": 3.3,
+  "categoryName": "Veterinarian",
+  "address": "No. 359, Section 1, Chenggong Road, Caotun Township, Nantou County, Taiwan 542             542南投縣草屯鎮成功路一段359號",
+  "locatedIn": null,
+  "plusCode": "XMJJ+XF Caotun Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9232 0643",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 14,
+  "placeId": "ChIJJxNExnEwaTQRrgplU97p56E",
+  "url": "https://www.google.com/maps/place/%E6%96%B0%E8%B1%90%E7%8D%B8%E9%86%AB%E9%99%A2/@23.9824304,120.6790259,17z/data=!3m1!4b1!4m5!3m4!1s0x34693071c6441327:0xa1e7e9de53650aae!8m2!3d23.9824304!4d120.6812146",
+  "location": {
+    "lat": 23.9824304,
+    "lng": 120.6812146
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 15
+},
+{
+  "title": "謝宗達動物診所",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 130, Yuanji Road, Mingjian Township, Nantou County, Taivanas 551             551南投縣名間鄉員集路130號",
+  "locatedIn": null,
+  "plusCode": "RPP3+72 Mingjian Township, Nantou County, Taivanas",
+  "website": null,
+  "phone": "+886 4 9273 4854",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 12,
+  "placeId": "ChIJMVO576IyaTQRQh_mFXCQRw8",
+  "url": "https://www.google.com/maps/place/%E8%AC%9D%E5%AE%97%E9%81%94%E5%8B%95%E7%89%A9%E8%A8%BA%E6%89%80/@23.8356525,120.7004015,17z/data=!3m1!4b1!4m5!3m4!1s0x346932a2efb95331:0xf47907015e61f42!8m2!3d23.8356525!4d120.7025902",
+  "location": {
+    "lat": 23.8356525,
+    "lng": 120.7025902
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 32
+},
+{
+  "title": "胜宏動物医院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 31, Zhongxin 2nd Street, Tianzhong Township, Changhua County, Taivanas 520             520彰化縣田中鎮中新二街31號",
+  "locatedIn": null,
+  "plusCode": "VH4Q+XP Tianzhong Township, Changhua County, Taivanas",
+  "website": null,
+  "phone": "+886 4 874 2410",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 18,
+  "placeId": "ChIJ07sQjMM0aTQRuZJk6wINDQk",
+  "url": "https://www.google.com/maps/place/%E8%83%9C%E5%AE%8F%E5%8B%95%E7%89%A9%E5%8C%BB%E9%99%A2/@23.8574669,120.5870921,17z/data=!3m1!4b1!4m5!3m4!1s0x346934c38c10bbd3:0x90d0d02eb6492b9!8m2!3d23.8574669!4d120.5892808",
+  "location": {
+    "lat": 23.8574669,
+    "lng": 120.5892808
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    null,
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),Uždaryta,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    {
+      "day": "pirmadienis,09–12,14–18,19–21.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 41
+},
+{
+  "title": "心愛動物醫院",
+  "totalScore": 4.4,
+  "categoryName": "Veterinarian",
+  "address": "No. 202, Section 2, Taiping Road, Caotun Township, Nantou County, Taiwan 542             542南投縣草屯鎮太平路二段202號",
+  "locatedIn": null,
+  "plusCode": "XMFM+JC Caotun Township, Nantou County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 4 9235 7078",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 9,
+  "placeId": "ChIJtbf_3WswaTQREHa062v8J8c",
+  "url": "https://www.google.com/maps/place/%E5%BF%83%E6%84%9B%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9740776,120.6814109,17z/data=!3m1!4b1!4m5!3m4!1s0x3469306bddffb7b5:0xc727fc6bebb47610!8m2!3d23.9740776!4d120.6835996",
+  "location": {
+    "lat": 23.9740776,
+    "lng": 120.6835996
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 3 to 9PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 9PM"
+    }
+  ],
+  "reviewsCount": 108
+},
+{
+  "title": "埔里動物醫院",
+  "totalScore": 3.8,
+  "categoryName": "Animal hospital",
+  "address": "No. 445, Section 3, Zhongshan Road, Puli Township, Nantou County, Taiwan 545             545南投縣埔里鎮中山路三段445號",
+  "locatedIn": null,
+  "plusCode": "XX93+QP Puli Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9291 6650",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 13,
+  "placeId": "ChIJT712DqbZaDQRcRzyUdDSL2Y",
+  "url": "https://www.google.com/maps/place/%E5%9F%94%E9%87%8C%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9694839,120.9520823,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d9a60e76bd4f:0x662fd2d051f21c71!8m2!3d23.9694839!4d120.954271",
+  "location": {
+    "lat": 23.9694839,
+    "lng": 120.954271
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9:30AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9:30AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9:30AM to 12PM, 2 to 7PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9:30AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9:30AM to 12PM, 2 to 5PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9:30AM to 12PM, 2 to 7PM"
+    }
+  ],
+  "reviewsCount": 69
+},
+{
+  "title": "佑犬動物医院",
+  "totalScore": 4.5,
+  "categoryName": "獣医師",
+  "address": "No. 58, Hushan Road, Nantou City, Nantou County, 台湾 540             540南投縣南投市虎山路58號",
+  "locatedIn": null,
+  "plusCode": "XM5P+P3 南投市, 台湾 Nantou County",
+  "website": null,
+  "phone": "+886 4 9235 1442",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 2,
+  "placeId": "ChIJTZflJkYwaTQRYKAtvHtIkYE",
+  "url": "https://www.google.com/maps/place/%E4%BD%91%E7%8A%AC%E5%8B%95%E7%89%A9%E5%8C%BB%E9%99%A2/@23.9592639,120.6829843,17z/data=!3m1!4b1!4m5!3m4!1s0x3469304626e5974d:0x8191487bbc2da060!8m2!3d23.9592639!4d120.685173",
+  "location": {
+    "lat": 23.9592639,
+    "lng": 120.685173
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 26
+},
+{
+  "title": "南投縣家畜疾病防治所",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "No. 499, Minzu Road, Nantou City, Nantou County, Taivanas 540             540南投縣南投市民族路499號",
+  "locatedIn": null,
+  "plusCode": "WM4J+M9 Nantou, Nantou County, Taivanas",
+  "website": "adcc.nantou.gov.tw",
+  "phone": "+886 4 9222 2542",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 15,
+  "placeId": "ChIJ-WfigCcyaTQRjx-JS9k8Yzo",
+  "url": "https://www.google.com/maps/place/%E5%8D%97%E6%8A%95%E7%B8%A3%E5%AE%B6%E7%95%9C%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E6%89%80/@23.9066594,120.6787665,17z/data=!3m1!4b1!4m5!3m4!1s0x3469322780e267f9:0x3a633cd94b891f8f!8m2!3d23.9066594!4d120.6809552",
+  "location": {
+    "lat": 23.9066594,
+    "lng": 120.6809552
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 19
+},
+{
+  "title": "大心動物醫院",
+  "totalScore": 4.6,
+  "categoryName": "Veterinarian",
+  "address": "No. 486號, Section 1, Taiping Road, Caotun Township, Nantou County, Taiwan 542             542南投縣草屯鎮太平路一段486號",
+  "locatedIn": null,
+  "plusCode": "XM9M+43 Caotun Township, Nantou County, Taiwan",
+  "website": "facebook.com",
+  "phone": "+886 4 9235 3838      phone3",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 7,
+  "placeId": "ChIJbWF82WswaTQRt5xDP0m-uTs",
+  "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%BF%83%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9678394,120.6805454,17z/data=!3m1!4b1!4m5!3m4!1s0x3469306bd97c616d:0x3bb9be493f439cb7!8m2!3d23.9678394!4d120.6827341",
+  "location": {
+    "lat": 23.9678394,
+    "lng": 120.6827341
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 3 to 5PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 3 to 5PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), 9AM to 12PM, 3 to 5PM, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 3 to 5PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 3 to 5PM, 6:30 to 9PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "Closed"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 3 to 5PM, 6:30 to 9PM"
+    }
+  ],
+  "reviewsCount": 246
+},
+{
+  "title": "慧光動物醫院",
+  "totalScore": null,
+  "categoryName": "",
+  "address": "No. 338, Section 1, Xi'an Road, Puli Township, Nantou County, Taivanas 545             545南投縣埔里鎮西安路一段338號",
+  "locatedIn": null,
+  "plusCode": "XXF9+HV Puli, Nantou County, Taivanas",
+  "website": null,
+  "phone": "+886 4 9290 1187",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 21,
+  "placeId": "ChIJ7yr7zXXZaDQRwNZIMWwNSfI",
+  "url": "https://www.google.com/maps/place/%E6%85%A7%E5%85%89%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.9739908,120.9675385,17z/data=!3m1!4b1!4m5!3m4!1s0x3468d975cdfb2aef:0xf2490d6c3148d6c0!8m2!3d23.9739908!4d120.9697272",
+  "location": {
+    "lat": 23.9739908,
+    "lng": 120.9697272
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    null,
+    null,
+    {
+      "day": "ketvirtadienis",
+      "hours": "(Rudens vidurio šventė),09:30–17,19–21,Darbo laikas gali skirtis"
+    },
+    null,
+    null,
+    null,
+    {
+      "day": "pirmadienis,09:30–17,19–21.",
+      "hours": "Slėpti savaitės darbo laiką"
+    }
+  ],
+  "reviewsCount": 26
+},
+{
+  "title": "德陽動物醫院",
+  "totalScore": 4,
+  "categoryName": "Animal hospital",
+  "address": "No. 426, Daming Road, Zhushan Township, Nantou County, Taiwan 557             557南投縣竹山鎮大明路426號",
+  "locatedIn": null,
+  "plusCode": "QM5J+QG Zhushan Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9263 1322",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 5,
+  "placeId": "ChIJI57KHbnNbjQRn9ENjfWKxkI",
+  "url": "https://www.google.com/maps/place/%E5%BE%B7%E9%99%BD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.759497,120.6791803,17z/data=!3m1!4b1!4m5!3m4!1s0x346ecdb91dca9e23:0x42c68af58d0dd19f!8m2!3d23.759497!4d120.681369",
+  "location": {
+    "lat": 23.759497,
+    "lng": 120.681369
+  },
+  "searchString": "南投縣的動物醫院",
+  "openingHours": [
+    {
+      "day": "Tuesday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Wednesday,",
+      "hours": "9AM to 12PM, 2 to 5PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "(Mid-Autumn Festival), Closed, Hours might differ"
+    },
+    {
+      "day": "Friday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Saturday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Sunday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    },
+    {
+      "day": "Monday,",
+      "hours": "9AM to 12PM, 2 to 7PM"
+    }
+  ],
+  "reviewsCount": 43
+},
+{
+  "title": "興徳動物医院",
+  "totalScore": 3.7,
+  "categoryName": "獣医師",
+  "address": "No. 867, Zhongzheng Rd, Caotun Township, Nantou County, 台湾 542             542南投縣草屯鎮中正路867號",
+  "locatedIn": null,
+  "plusCode": "XMMP+J8 草屯鎮, 台湾 Nantou County",
+  "website": null,
+  "phone": "+886 4 9232 7918",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 6,
+  "placeId": "ChIJ5bdOoXMwaTQR4cTGxULmrY0",
+  "url": "https://www.google.com/maps/place/%E8%88%88%E5%BE%B3%E5%8B%95%E7%89%A9%E5%8C%BB%E9%99%A2/@23.984005,120.6836473,17z/data=!3m1!4b1!4m5!3m4!1s0x34693073a14eb7e5:0x8dade642c5c6c4e1!8m2!3d23.984005!4d120.685836",
+  "location": {
+    "lat": 23.984005,
+    "lng": 120.685836
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 9
+},
+{
+  "title": "家旭動物醫院",
+  "totalScore": null,
+  "categoryName": "Veterinarijos klinika",
+  "address": "413, Taivanas, Taichung City, Wufeng District, Zhongzheng Rd, 413號 767-9 號No. 767-9             413台中市霧峰區中正路413號 767-9 號No. 767-9",
+  "locatedIn": null,
+  "plusCode": "3M6X+F7 Wufeng District, Taichung City, Taivanas",
+  "website": null,
+  "phone": "+886 4 2339 3826",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 20,
+  "placeId": "ChIJo50AjqY7aTQRijyoL_LqbKk",
+  "url": "https://www.google.com/maps/place/%E5%AE%B6%E6%97%AD%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@24.0611962,120.6960368,17z/data=!3m1!4b1!4m5!3m4!1s0x34693ba68e009da3:0xa96ceaf22fa83c8a!8m2!3d24.0611962!4d120.6982255",
+  "location": {
+    "lat": 24.0611962,
+    "lng": 120.6982255
+  },
+  "searchString": "南投縣的動物醫院",
+  "reviewsCount": 3
+},
+{
+  "title": "德穎動物醫院",
+  "totalScore": "",
+  "categoryName": "Hospital",
+  "address": "No. 6號, Lane 969, Caoxi Road, Caotun Township, Nantou County, Taiwan 542             542南投縣草屯鎮草溪路969巷6號",
+  "locatedIn": null,
+  "plusCode": "XMGJ+H7 Caotun Township, Nantou County, Taiwan",
+  "website": null,
+  "phone": "+886 4 9231 9191",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "rank": 16,
+  "placeId": "ChIJS9VU0W4waTQROwVC6hntrRE",
+  "url": "https://www.google.com/maps/place/%E5%BE%B7%E7%A9%8E%E5%8B%95%E7%89%A9%E9%86%AB%E9%99%A2/@23.976418,120.6785524,17z/data=!3m1!4b1!4m5!3m4!1s0x3469306ed154d54b:0x11aded19ea42053b!8m2!3d23.976418!4d120.6807411",
+  "location": {
+    "lat": 23.976418,
+    "lng": 120.6807411
+  },
+  "searchString": "南投縣的動物醫院"
+}]
